@@ -21,7 +21,8 @@ To view the document locally, keep the XML and CSS files in the same folder and 
 - **Gaps:** Laws 66 to 99 are in the part of the stele that is missing. The source's note on this is in `<hcontainer name="lacuna">`. Law 13 is also absent from the source. Ellipses in the source, where words are unknown, are marked with `<omissis>`.
 - **Glosses:** The source adds "An eye for an eye" to law 196 and "A tooth for a tooth" to law 200. Neither is in the laws themselves. Both are kept in `<span class="gloss">`.
 - **Highlights:** Laws 196, 197 and 200 are in `<span class="landmark">`. The highlighting is editorial.
-- **Line breaks:** The source breaks some epilogue paragraphs in mid-sentence. Those are rejoined. The word sequence matches the source exactly.
+- **Line breaks:** The source breaks some epilogue paragraphs in mid-sentence. Those are rejoined. The text is otherwise verbatim, including the straight quotation marks and the source's `. . ..` in law 274.
+- **Identifiers:** Every element with an `eId` also has a `GUID`. Text-level `<p>` elements have neither.
 - **Dates:** `-1754-01-01` and `1915-01-01` are nominal dates, used because the schema needs a full date. The date of the Code is approximate.
 - **Jurisdiction:** The URIs use `babylon`.
 

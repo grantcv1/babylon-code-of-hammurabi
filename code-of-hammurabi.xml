@@ -28,12 +28,12 @@
         </FRBRManifestation>
       </identification>
       <references source="#gvergottini">
-        <TLCPerson eId="hammurabi" href="/ontology/person/babylon.hammurabi" showAs="Hammurabi, King of Babylon"/>
-        <TLCPerson eId="king" href="/ontology/person/gb.leonardWilliamKing" showAs="L. W. King"/>
-        <TLCPerson eId="gvergottini" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-        <TLCRole eId="author" href="/ontology/role/author" showAs="Author"/>
-        <TLCRole eId="translator" href="/ontology/role/translator" showAs="Translator"/>
-        <TLCRole eId="editor" href="/ontology/role/editor" showAs="Editor"/>
+        <TLCPerson eId="hammurabi" GUID="0BA2DE6E-DCA6-4594-8874-7E4FCC4D4F53" href="/ontology/person/babylon.hammurabi" showAs="Hammurabi, King of Babylon"/>
+        <TLCPerson eId="king" GUID="B91C4B44-1AC0-49D7-AA75-A6A155816996" href="/ontology/person/gb.leonardWilliamKing" showAs="L. W. King"/>
+        <TLCPerson eId="gvergottini" GUID="34FAB9DD-8E94-426F-9491-3F27B5323FA8" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author" GUID="5380C8F9-6B1D-43CA-88F5-592ECC9D3C4B" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="translator" GUID="9EED169E-E9AA-499D-8D7B-27D22E4BC9BB" href="/ontology/role/translator" showAs="Translator"/>
+        <TLCRole eId="editor" GUID="B44BFDEB-892C-473D-A565-55201FD5900B" href="/ontology/role/editor" showAs="Editor"/>
       </references>
     </meta>
     <coverPage>
@@ -42,1015 +42,1015 @@
       <p class="note">Babylon · c. 1754 BC · Translated by L. W. King</p>
     </coverPage>
     <preamble>
-      <container name="prologue" eId="prologue">
-        <p eId="prologue__para_1">When Anu the Sublime, King of the Anunaki, and Bel, the lord of Heaven and earth, who decreed the fate of the land, assigned to Marduk, the over-ruling son of Ea, God of righteousness, dominion over earthly man, and made him great among the Igigi, they called Babylon by his illustrious name, made it great on earth, and founded an everlasting kingdom in it, whose foundations are laid so solidly as those of heaven and earth; then Anu and Bel called by name me, Hammurabi, the exalted prince, who feared God, to bring about the rule of righteousness in the land, to destroy the wicked and the evil-doers; so that the strong should not harm the weak; so that I should rule over the black-headed people like Shamash, and enlighten the land, to further the well-being of mankind.</p>
-        <p eId="prologue__para_2">Hammurabi, the prince, called of Bel am I, making riches and increase, enriching Nippur and Dur-ilu beyond compare, sublime patron of E-kur; who reestablished Eridu and purified the worship of E-apsu; who conquered the four quarters of the world, made great the name of  Babylon, rejoiced the heart of Marduk, his lord who daily pays his devotions in Saggil; the royal scion whom Sin made; who enriched Ur; the humble, the reverent, who brings wealth to  Gish-shir-gal; the white king, heard of Shamash, the mighty, who again laid the foundations of Sippara; who clothed the gravestones of Malkat with green; who made E-babbar great, which is like the heavens, the warrior who guarded Larsa and renewed E-babbar, with Shamash as his helper; the lord who granted new life to Uruk, who brought plenteous water to its inhabitants, raised the head of E-anna, and perfected the beauty of Anu and Nana; shield of the land, who reunited the scattered inhabitants of Isin; who richly endowed E-gal-mach; the protecting king of the city, brother of the god Zamama; who firmly founded the farms of Kish, crowned E-me-te-ursag with glory, redoubled the great holy treasures of Nana, managed the temple of Harsag-kalama; the grave of the enemy, whose help brought about the victory; who increased the power of Cuthah; made all glorious in E-shidlam, the black steer, who gored the enemy; beloved of the god Nebo, who rejoiced the inhabitants of Borsippa, the Sublime; who is indefatigable for E-zida; the divine king of the city; the White, Wise; who broadened the fields of Dilbat, who heaped up the harvests for Urash; the Mighty, the lord to whom come scepter and crown, with which he clothes himself; the Elect of Ma-ma; who fixed the temple bounds of Kesh, who made rich the holy feasts of Nin-tu; the provident, solicitous, who provided food and drink for Lagash and Girsu, who provided large sacrificial offerings for the temple of Ningirsu; who captured the enemy, the Elect of the oracle who fulfilled the prediction of Hallab, who rejoiced the heart of Anunit; the pure prince, whose prayer is accepted by Adad; who satisfied the heart of Adad, the warrior, in Karkar, who restored the vessels for worship in E-ud-gal-gal; the king who granted life to the city of Adab; the guide of E-mach; the princely king of the city, the irresistible warrior, who granted life to the inhabitants of Mashkanshabri, and brought abundance to the temple of Shidlam; the White, Potent, who penetrated the secret cave of the bandits, saved the inhabitants of Malka from misfortune, and fixed their home fast in wealth; who established pure sacrificial gifts for Ea and Dam-gal-nun-na, who made his kingdom everlastingly great; the princely king of the city, who subjected the districts on the Ud-kib-nun-na Canal to the sway of Dagon, his Creator; who spared the inhabitants of Mera and Tutul; the sublime prince, who makes the face of Ninni shine; who presents holy meals to the divinity of Nin-a-zu, who cared for its inhabitants in their need, provided a portion for them in Babylon in peace; the shepherd of the oppressed and of the slaves; whose deeds find favor before Anunit, who provided for Anunit in the temple of  Dumash in the suburb of Agade; who recognizes the right, who rules by law; who gave back to the city of Ashur its protecting god; who let the name of Ishtar of Nineveh remain in E-mish-mish; the Sublime, who humbles himself before the great gods; successor of Sumula-il; the mighty son of Sin-muballit; the royal scion of Eternity; the mighty monarch, the sun of Babylon, whose rays shed light over the land of Sumer and Akkad; the king, obeyed by the four quarters of the world; Beloved of Ninni, am I.</p>
-        <p eId="prologue__para_3">When Marduk sent me to rule over men, to give the protection of right to the land, I did right and righteousness in <omissis>. . .</omissis> , and brought about the well-being of the oppressed.</p>
+      <container name="prologue" eId="prologue" GUID="7E225066-2D8C-425E-84B8-C218EA6F3AF3">
+        <p>When Anu the Sublime, King of the Anunaki, and Bel, the lord of Heaven and earth, who decreed the fate of the land, assigned to Marduk, the over-ruling son of Ea, God of righteousness, dominion over earthly man, and made him great among the Igigi, they called Babylon by his illustrious name, made it great on earth, and founded an everlasting kingdom in it, whose foundations are laid so solidly as those of heaven and earth; then Anu and Bel called by name me, Hammurabi, the exalted prince, who feared God, to bring about the rule of righteousness in the land, to destroy the wicked and the evil-doers; so that the strong should not harm the weak; so that I should rule over the black-headed people like Shamash, and enlighten the land, to further the well-being of mankind.</p>
+        <p>Hammurabi, the prince, called of Bel am I, making riches and increase, enriching Nippur and Dur-ilu beyond compare, sublime patron of E-kur; who reestablished Eridu and purified the worship of E-apsu; who conquered the four quarters of the world, made great the name of  Babylon, rejoiced the heart of Marduk, his lord who daily pays his devotions in Saggil; the royal scion whom Sin made; who enriched Ur; the humble, the reverent, who brings wealth to  Gish-shir-gal; the white king, heard of Shamash, the mighty, who again laid the foundations of Sippara; who clothed the gravestones of Malkat with green; who made E-babbar great, which is like the heavens, the warrior who guarded Larsa and renewed E-babbar, with Shamash as his helper; the lord who granted new life to Uruk, who brought plenteous water to its inhabitants, raised the head of E-anna, and perfected the beauty of Anu and Nana; shield of the land, who reunited the scattered inhabitants of Isin; who richly endowed E-gal-mach; the protecting king of the city, brother of the god Zamama; who firmly founded the farms of Kish, crowned E-me-te-ursag with glory, redoubled the great holy treasures of Nana, managed the temple of Harsag-kalama; the grave of the enemy, whose help brought about the victory; who increased the power of Cuthah; made all glorious in E-shidlam, the black steer, who gored the enemy; beloved of the god Nebo, who rejoiced the inhabitants of Borsippa, the Sublime; who is indefatigable for E-zida; the divine king of the city; the White, Wise; who broadened the fields of Dilbat, who heaped up the harvests for Urash; the Mighty, the lord to whom come scepter and crown, with which he clothes himself; the Elect of Ma-ma; who fixed the temple bounds of Kesh, who made rich the holy feasts of Nin-tu; the provident, solicitous, who provided food and drink for Lagash and Girsu, who provided large sacrificial offerings for the temple of Ningirsu; who captured the enemy, the Elect of the oracle who fulfilled the prediction of Hallab, who rejoiced the heart of Anunit; the pure prince, whose prayer is accepted by Adad; who satisfied the heart of Adad, the warrior, in Karkar, who restored the vessels for worship in E-ud-gal-gal; the king who granted life to the city of Adab; the guide of E-mach; the princely king of the city, the irresistible warrior, who granted life to the inhabitants of Mashkanshabri, and brought abundance to the temple of Shidlam; the White, Potent, who penetrated the secret cave of the bandits, saved the inhabitants of Malka from misfortune, and fixed their home fast in wealth; who established pure sacrificial gifts for Ea and Dam-gal-nun-na, who made his kingdom everlastingly great; the princely king of the city, who subjected the districts on the Ud-kib-nun-na Canal to the sway of Dagon, his Creator; who spared the inhabitants of Mera and Tutul; the sublime prince, who makes the face of Ninni shine; who presents holy meals to the divinity of Nin-a-zu, who cared for its inhabitants in their need, provided a portion for them in Babylon in peace; the shepherd of the oppressed and of the slaves; whose deeds find favor before Anunit, who provided for Anunit in the temple of  Dumash in the suburb of Agade; who recognizes the right, who rules by law; who gave back to the city of Ashur its protecting god; who let the name of Ishtar of Nineveh remain in E-mish-mish; the Sublime, who humbles himself before the great gods; successor of Sumula-il; the mighty son of Sin-muballit; the royal scion of Eternity; the mighty monarch, the sun of Babylon, whose rays shed light over the land of Sumer and Akkad; the king, obeyed by the four quarters of the world; Beloved of Ninni, am I.</p>
+        <p>When Marduk sent me to rule over men, to give the protection of right to the land, I did right and righteousness in <omissis>. . .</omissis> , and brought about the well-being of the oppressed.</p>
       </container>
     </preamble>
     <body>
-      <section eId="sec_1">
+      <section eId="sec_1" GUID="B42615AA-DACF-4F0B-AFFF-3DA02C0D0196">
         <num>1</num>
         <content><p>If any one ensnare another, putting a ban upon him, but he can not prove it, then he that ensnared him shall be put to death.</p></content>
       </section>
-      <section eId="sec_2">
+      <section eId="sec_2" GUID="592AC34C-BAAD-4720-85B1-F40626F23333">
         <num>2</num>
         <content><p>If any one bring an accusation against a man, and the accused go to the river and leap into the river, if he sink in the river his accuser shall take possession of his house. But if the river prove that the accused is not guilty, and he escape unhurt, then he who had brought the accusation shall be put to death, while he who leaped into the river shall take possession of the house that had belonged to his accuser.</p></content>
       </section>
-      <section eId="sec_3">
+      <section eId="sec_3" GUID="F3560DDA-2E65-46F7-ADDE-C1B3E3162757">
         <num>3</num>
         <content><p>If any one bring an accusation of any crime before the elders, and does not prove what he has charged, he shall, if it be a capital offense charged, be put to death.</p></content>
       </section>
-      <section eId="sec_4">
+      <section eId="sec_4" GUID="DF15256C-66E9-47B7-9065-DE9D4F78D24B">
         <num>4</num>
         <content><p>If he satisfy the elders to impose a fine of grain or money, he shall receive the fine that the action produces.</p></content>
       </section>
-      <section eId="sec_5">
+      <section eId="sec_5" GUID="40D9A6D7-9B75-405C-938E-54DE4DDD2E37">
         <num>5</num>
-        <content><p>If a judge try a case, reach a decision, and present his judgment in writing; if later error shall appear in his decision, and it be through his own fault, then he shall pay twelve times the fine set by him in the case, and he shall be publicly removed from the judge’s bench, and never again shall he sit there to render judgement.</p></content>
+        <content><p>If a judge try a case, reach a decision, and present his judgment in writing; if later error shall appear in his decision, and it be through his own fault, then he shall pay twelve times the fine set by him in the case, and he shall be publicly removed from the judge's bench, and never again shall he sit there to render judgement.</p></content>
       </section>
-      <section eId="sec_6">
+      <section eId="sec_6" GUID="62F228E5-B9CC-4A61-B62C-EB6F3DD58D54">
         <num>6</num>
         <content><p>If any one steal the property of a temple or of the court, he shall be put to death, and also the one who receives the stolen thing from him shall be put to death.</p></content>
       </section>
-      <section eId="sec_7">
+      <section eId="sec_7" GUID="A3BC748C-E585-4ED2-A853-F7823056B977">
         <num>7</num>
         <content><p>If any one buy from the son or the slave of another man, without witnesses or a contract, silver or gold, a male or female slave, an ox or a sheep, an ass or anything, or if he take it in charge, he is considered a thief and shall be put to death.</p></content>
       </section>
-      <section eId="sec_8">
+      <section eId="sec_8" GUID="E4534356-8033-46CC-80AC-D1122D45E990">
         <num>8</num>
         <content><p>If any one steal cattle or sheep, or an ass, or a pig or a goat, if it belong to a god or to the court, the thief shall pay thirtyfold therefor; if they belonged to a freed man of the king he shall pay tenfold; if the thief has nothing with which to pay he shall be put to death.</p></content>
       </section>
-      <section eId="sec_9">
+      <section eId="sec_9" GUID="D3E311E5-A58C-4912-95D5-880656991EAF">
         <num>9</num>
-        <content><p>If any one lose an article, and find it in the possession of another: if the person in whose possession the thing is found say “A merchant sold it to me, I paid for it before witnesses,” and if the owner of the thing say, “I will bring witnesses who know my property,” then shall the purchaser bring the merchant who sold it to him, and the witnesses before whom he bought it, and the owner shall bring witnesses who can identify his property. The judge shall examine their testimony--both of the witnesses before whom the price was paid, and of the witnesses who identify the lost article on oath. The merchant is then proved to be a thief and shall be put to death. The owner of the lost article receives his property, and he who bought it receives the money he paid from the estate of the merchant.</p></content>
+        <content><p>If any one lose an article, and find it in the possession of another: if the person in whose possession the thing is found say "A merchant sold it to me, I paid for it before witnesses," and if the owner of the thing say, "I will bring witnesses who know my property," then shall the purchaser bring the merchant who sold it to him, and the witnesses before whom he bought it, and the owner shall bring witnesses who can identify his property. The judge shall examine their testimony--both of the witnesses before whom the price was paid, and of the witnesses who identify the lost article on oath. The merchant is then proved to be a thief and shall be put to death. The owner of the lost article receives his property, and he who bought it receives the money he paid from the estate of the merchant.</p></content>
       </section>
-      <section eId="sec_10">
+      <section eId="sec_10" GUID="67499FCC-79F9-494F-B78F-77B63687C430">
         <num>10</num>
         <content><p>If the purchaser does not bring the merchant and the witnesses before whom he bought the article, but its owner bring witnesses who identify it, then the buyer is the thief and shall be put to death, and the owner receives the lost article.</p></content>
       </section>
-      <section eId="sec_11">
+      <section eId="sec_11" GUID="301EC198-9493-427C-A818-32B3F46FD820">
         <num>11</num>
         <content><p>If the owner do not bring witnesses to identify the lost article, he is an evil-doer,  he has traduced, and shall be put to death.</p></content>
       </section>
-      <section eId="sec_12">
+      <section eId="sec_12" GUID="E1BD3350-1207-418C-BA2B-45457FC87956">
         <num>12</num>
         <content><p>If the witnesses be not at hand, then shall the judge set a limit, at the expiration of six months. If his witnesses have not appeared within the six months, he is an evil-doer, and shall bear the fine of the pending case.</p></content>
       </section>
-      <section eId="sec_14">
+      <section eId="sec_14" GUID="9D72AD86-CE59-4169-9D3E-D9104F6E6707">
         <num>14</num>
         <content><p>If any one steal the minor son of another, he shall be put to death.</p></content>
       </section>
-      <section eId="sec_15">
+      <section eId="sec_15" GUID="277D9038-45B4-45E0-A7B7-F0AEACE1C88A">
         <num>15</num>
         <content><p>If any one take a male or female slave of the court, or a male or female slave of a freed man, outside the city gates, he shall be put to death.</p></content>
       </section>
-      <section eId="sec_16">
+      <section eId="sec_16" GUID="9D4348E2-652F-4863-BAAC-70289B0E3AD5">
         <num>16</num>
         <content><p>If any one receive into his house a runaway male or female slave of the court, or of a freedman, and does not bring it out at the public proclamation of the major domus, the master of the house shall be put to death.</p></content>
       </section>
-      <section eId="sec_17">
+      <section eId="sec_17" GUID="0304517E-B78B-4D3C-B2DA-10F5A2E87B8C">
         <num>17</num>
         <content><p>If any one find runaway male or female slaves in the open country and bring them to their masters, the master of the slaves shall pay him two shekels of silver.</p></content>
       </section>
-      <section eId="sec_18">
+      <section eId="sec_18" GUID="51931C92-5FC3-456E-8AF2-9C2F0915069E">
         <num>18</num>
         <content><p>If the slave will not give the name of the master, the finder shall bring him to the palace; a further investigation must follow, and the slave shall be returned to his master.</p></content>
       </section>
-      <section eId="sec_19">
+      <section eId="sec_19" GUID="FFDE1340-F394-4571-A835-999C3D14229D">
         <num>19</num>
         <content><p>If he hold the slaves in his house, and they are caught there, he shall be put to death.</p></content>
       </section>
-      <section eId="sec_20">
+      <section eId="sec_20" GUID="62920662-71D0-4D4F-AE25-2D2D4689A8EB">
         <num>20</num>
         <content><p>If the slave that he caught run away from him, then shall he swear to the owners of the slave, and he is free of all blame.</p></content>
       </section>
-      <section eId="sec_21">
+      <section eId="sec_21" GUID="A46D3BA4-DFA7-4895-B81D-75821238E18E">
         <num>21</num>
         <content><p>If any one break a hole into a house (break in to steal), he shall be put to death before that hole and be buried.</p></content>
       </section>
-      <section eId="sec_22">
+      <section eId="sec_22" GUID="DD9B057B-A832-4B87-AD14-E92611F0E12E">
         <num>22</num>
         <content><p>If any one is committing a robbery and is caught, then he shall be put to death.</p></content>
       </section>
-      <section eId="sec_23">
+      <section eId="sec_23" GUID="3E0138CF-3D50-467A-AB92-E41DB24E22FA">
         <num>23</num>
         <content><p>If the robber is not caught, then shall he who was robbed claim under oath the amount of his loss; then shall the community, and <omissis>. . .</omissis> on whose ground and territory and in whose domain it was compensate him for the goods stolen.</p></content>
       </section>
-      <section eId="sec_24">
+      <section eId="sec_24" GUID="7B6B501B-2495-42D0-ABED-8EC06A705260">
         <num>24</num>
         <content><p>If persons are stolen, then shall the community and <omissis>. . .</omissis> pay one mina of silver to their relatives.</p></content>
       </section>
-      <section eId="sec_25">
+      <section eId="sec_25" GUID="1FC6972C-962A-473A-AC88-E38D4921D067">
         <num>25</num>
         <content><p>If fire break out in a house, and some one who comes to put it out cast his eye upon the property of the owner of the house, and take the property of the master of the house, he shall be thrown into that self-same fire.</p></content>
       </section>
-      <section eId="sec_26">
+      <section eId="sec_26" GUID="E9E9CDBF-E97C-40A8-82ED-994CBC9FEE52">
         <num>26</num>
-        <content><p>If a chieftain or a man (common soldier), who has been ordered to go upon the king’s highway for war does not go, but hires a mercenary, if he withholds the compensation, then shall this officer or man be put to death, and he who represented him shall take possession of his house.</p></content>
+        <content><p>If a chieftain or a man (common soldier), who has been ordered to go upon the king's highway for war does not go, but hires a mercenary, if he withholds the compensation, then shall this officer or man be put to death, and he who represented him shall take possession of his house.</p></content>
       </section>
-      <section eId="sec_27">
+      <section eId="sec_27" GUID="86F0D139-5A61-4AE6-AF4B-E21DD331180C">
         <num>27</num>
         <content><p>If a chieftain or man be caught in the misfortune of the king (captured in battle), and if his fields and garden be given to another and he take possession, if he return and reaches his place, his field and garden shall be returned to him, he shall take it over again.</p></content>
       </section>
-      <section eId="sec_28">
+      <section eId="sec_28" GUID="DC3CB66C-A07C-48AE-8FF3-91C3E178E744">
         <num>28</num>
         <content><p>If a chieftain or a man be caught in the misfortune of a king, if his son is able to enter into possession, then the field and garden shall be given to him, he shall take over the fee of his father.</p></content>
       </section>
-      <section eId="sec_29">
+      <section eId="sec_29" GUID="038496C1-0E07-4311-A469-2F2C428162EA">
         <num>29</num>
         <content><p>If his son is still young, and can not take possession, a third of the field and garden shall be given to his mother, and she shall bring him up.</p></content>
       </section>
-      <section eId="sec_30">
+      <section eId="sec_30" GUID="3BF6D4F2-945E-45DF-9745-A5BCEE73AC4A">
         <num>30</num>
         <content><p>If a chieftain or a man leave his house, garden, and field and hires it out, and some one else takes possession of his house, garden, and field and uses it for three years: if the first owner return and claims his house, garden, and field, it shall not be given to him, but he who has taken possession of it and used it shall continue to use it.</p></content>
       </section>
-      <section eId="sec_31">
+      <section eId="sec_31" GUID="DD965C6D-4CB9-480C-950C-2A8AC9FC9CDC">
         <num>31</num>
         <content><p>If he hire it out for one year and then return, the house, garden, and field shall be given back to him, and he shall take it over again.</p></content>
       </section>
-      <section eId="sec_32">
+      <section eId="sec_32" GUID="05A7DA30-99E4-4CE9-9E74-FA0BBA496B8F">
         <num>32</num>
-        <content><p>If a chieftain or a man is captured on the “Way of the King” (in war), and a merchant buy him free, and bring him back to his place; if he have the means in his house to buy his freedom, he shall buy himself free: if he have nothing in his house with which to buy himself free, he shall be bought free by the temple of his community; if there be nothing in the temple with which to buy him free, the court shall buy his freedom. His field, garden, and house shall not be given for the purchase of his freedom.</p></content>
+        <content><p>If a chieftain or a man is captured on the "Way of the King" (in war), and a merchant buy him free, and bring him back to his place; if he have the means in his house to buy his freedom, he shall buy himself free: if he have nothing in his house with which to buy himself free, he shall be bought free by the temple of his community; if there be nothing in the temple with which to buy him free, the court shall buy his freedom. His field, garden, and house shall not be given for the purchase of his freedom.</p></content>
       </section>
-      <section eId="sec_33">
+      <section eId="sec_33" GUID="E15E18EA-F692-4DDA-B06F-147C0BA10A99">
         <num>33</num>
-        <content><p>If a <omissis>. . .</omissis> or a <omissis>. . .</omissis> enter himself as withdrawn from the “Way of the King,” and send a mercenary as substitute, but withdraw him, then the <omissis>. . .</omissis> or <omissis>. . .</omissis> shall be put to death.</p></content>
+        <content><p>If a <omissis>. . .</omissis> or a <omissis>. . .</omissis> enter himself as withdrawn from the "Way of the King," and send a mercenary as substitute, but withdraw him, then the <omissis>. . .</omissis> or <omissis>. . .</omissis> shall be put to death.</p></content>
       </section>
-      <section eId="sec_34">
+      <section eId="sec_34" GUID="DC07F202-8656-4B07-A089-911E60B50E6B">
         <num>34</num>
         <content><p>If a <omissis>. . .</omissis> or a <omissis>. . .</omissis> harm the property of a captain, injure the captain, or take away from the captain a gift presented to him by the king, then the <omissis>. . .</omissis> or <omissis>. . .</omissis> shall be put to death.</p></content>
       </section>
-      <section eId="sec_35">
+      <section eId="sec_35" GUID="519ECF52-E5D6-4035-A286-7015A6C723B2">
         <num>35</num>
         <content><p>If any one buy the cattle or sheep which the king has given to chieftains from him, he loses his money.</p></content>
       </section>
-      <section eId="sec_36">
+      <section eId="sec_36" GUID="600C4B62-A96F-4355-8B1D-388C0C3B50D0">
         <num>36</num>
         <content><p>The field, garden, and house of a chieftain, of a man, or of one subject to quit-rent, can not be sold.</p></content>
       </section>
-      <section eId="sec_37">
+      <section eId="sec_37" GUID="4894D032-1E41-4415-8A08-E52693B766E0">
         <num>37</num>
         <content><p>If any one buy the field, garden, and house of a chieftain, man, or one subject to quit-rent, his contract tablet of sale shall be broken (declared invalid) and he loses his money. The field, garden, and house return to their owners.</p></content>
       </section>
-      <section eId="sec_38">
+      <section eId="sec_38" GUID="F955C7FD-2B17-4C0E-9C07-E30DA879457E">
         <num>38</num>
         <content><p>A chieftain, man, or one subject to quit-rent can not assign his tenure of field, house, and garden to his wife or daughter, nor can he assign it for a debt.</p></content>
       </section>
-      <section eId="sec_39">
+      <section eId="sec_39" GUID="52CC2EBE-270D-4628-9A55-199D7ABC3551">
         <num>39</num>
         <content><p>He may, however, assign a field, garden, or house which he has bought, and holds as property, to his wife or daughter or give it for debt.</p></content>
       </section>
-      <section eId="sec_40">
+      <section eId="sec_40" GUID="7BB40D8C-18B0-4951-9453-5DD9202F5266">
         <num>40</num>
         <content><p>He may sell field, garden, and house to a merchant (royal agents) or to any other public official, the buyer holding field, house, and garden for its usufruct.</p></content>
       </section>
-      <section eId="sec_41">
+      <section eId="sec_41" GUID="999B4882-A89B-401C-9038-F5DBDA11D252">
         <num>41</num>
         <content><p>If any one fence in the field, garden, and house of a chieftain, man, or one subject to quit-rent, furnishing the palings therefor; if the chieftain, man, or one subject to quit-rent return to field, garden, and house, the palings which were given to him become his property.</p></content>
       </section>
-      <section eId="sec_42">
+      <section eId="sec_42" GUID="5306ECCB-4C49-4D85-BB22-860009292D6C">
         <num>42</num>
         <content><p>If any one take over a field to till it, and obtain no harvest therefrom, it must be proved that he did no work on the field, and he must deliver grain, just as his neighbor raised, to the owner of the field.</p></content>
       </section>
-      <section eId="sec_43">
+      <section eId="sec_43" GUID="63BF07B3-6E52-4025-9A2D-E4F905BAFAA1">
         <num>43</num>
-        <content><p>If he do not till the field, but let it lie fallow, he shall give grain like his neighbor’s to the owner of the field, and the field which he let lie fallow he must plow and sow and return to its owner.</p></content>
+        <content><p>If he do not till the field, but let it lie fallow, he shall give grain like his neighbor's to the owner of the field, and the field which he let lie fallow he must plow and sow and return to its owner.</p></content>
       </section>
-      <section eId="sec_44">
+      <section eId="sec_44" GUID="0369291E-0E8C-4D8A-B0F7-F3F5D299934C">
         <num>44</num>
         <content><p>If any one take over a waste-lying field to make it arable, but is lazy, and does not make it arable, he shall plow the fallow field in the fourth year, harrow it and till it, and give it back to its owner, and for each ten gan (a measure of area) ten gur of grain shall be paid.</p></content>
       </section>
-      <section eId="sec_45">
+      <section eId="sec_45" GUID="39734E85-6329-4751-B427-5719CD1D4980">
         <num>45</num>
         <content><p>If a man rent his field for tillage for a fixed rental, and receive the rent of his field, but bad weather come and destroy the harvest, the injury falls upon the tiller of the soil.</p></content>
       </section>
-      <section eId="sec_46">
+      <section eId="sec_46" GUID="1754BA07-544B-4DC0-9471-2D12B996ECD2">
         <num>46</num>
         <content><p>If he do not receive a fixed rental for his field, but lets it on half or third shares of the harvest, the grain on the field shall be divided proportionately between the tiller and the owner.</p></content>
       </section>
-      <section eId="sec_47">
+      <section eId="sec_47" GUID="189462AD-8A0E-4AC6-A19C-4BA20AD73958">
         <num>47</num>
         <content><p>If the tiller, because he did not succeed in the first year, has had the soil tilled by others, the owner may raise no objection; the field has been cultivated and he receives the harvest according to agreement.</p></content>
       </section>
-      <section eId="sec_48">
+      <section eId="sec_48" GUID="7491C020-9E9B-45F9-92A6-1322F7174878">
         <num>48</num>
         <content><p>If any one owe a debt for a loan, and a storm prostrates the grain, or the harvest fail, or the grain does not grow for lack of water; in that year he need not give his creditor any grain, he washes his debt-tablet in water and pays no rent for this year.</p></content>
       </section>
-      <section eId="sec_49">
+      <section eId="sec_49" GUID="B6ADB4D8-E415-4C0C-9CCB-7C0F8F6E8AE2">
         <num>49</num>
         <content><p>If any one take money from a merchant, and give the merchant a field tillable for corn or sesame and order him to plant corn or sesame in the field, and to harvest the crop; if the cultivator plant corn or sesame in the field, at the harvest the corn or sesame that is in the field shall belong to the owner of the field and he shall pay corn as rent, for the money he received from the merchant, and the livelihood of the cultivator shall he give to the merchant.</p></content>
       </section>
-      <section eId="sec_50">
+      <section eId="sec_50" GUID="333AAA58-7C00-4F62-835F-628504832145">
         <num>50</num>
         <content><p>If he give a cultivated corn-field or a cultivated sesame-field, the corn or sesame in the field shall belong to the owner of the field, and he shall return the money to the merchant as rent.</p></content>
       </section>
-      <section eId="sec_51">
+      <section eId="sec_51" GUID="F27D0A69-7A3C-4BE4-B557-14883592E26E">
         <num>51</num>
         <content><p>If he have no money to repay, then he shall pay in corn or sesame in place of the money as rent for what he received from the merchant, according to the royal tariff.</p></content>
       </section>
-      <section eId="sec_52">
+      <section eId="sec_52" GUID="4F923365-6500-4CCD-8AE8-262105C71806">
         <num>52</num>
-        <content><p>If the cultivator do not plant corn or sesame in the field, the debtor’s contract is not weakened.</p></content>
+        <content><p>If the cultivator do not plant corn or sesame in the field, the debtor's contract is not weakened.</p></content>
       </section>
-      <section eId="sec_53">
+      <section eId="sec_53" GUID="733F3ECD-41D8-450F-9FC5-9B2670942BC9">
         <num>53</num>
         <content><p>If any one be too lazy to keep his dam in proper condition, and does not so keep it; if then the dam break and all the fields be flooded, then shall he in whose dam the break occurred be sold for money, and the money shall replace the corn which he has caused to be ruined.</p></content>
       </section>
-      <section eId="sec_54">
+      <section eId="sec_54" GUID="21EB014E-7952-4EC0-9CB4-21D10C245C5B">
         <num>54</num>
         <content><p>If he be not able to replace the corn, then he and his possessions shall be divided among the farmers whose corn he has flooded.</p></content>
       </section>
-      <section eId="sec_55">
+      <section eId="sec_55" GUID="E5F3DD30-E661-4C28-9664-82215ADB3227">
         <num>55</num>
         <content><p>If any one open his ditches to water his crop, but is careless, and the water flood the field of his neighbor, then he shall pay his neighbor corn for his loss.</p></content>
       </section>
-      <section eId="sec_56">
+      <section eId="sec_56" GUID="2B485FC6-6CE0-41E4-934F-1E24AF9106F4">
         <num>56</num>
         <content><p>If a man let in the water, and the water overflow the plantation of his neighbor, he shall pay ten gur of corn for every ten gan of land.</p></content>
       </section>
-      <section eId="sec_57">
+      <section eId="sec_57" GUID="7650727B-3889-473E-9C5F-852BD41E9A9C">
         <num>57</num>
         <content><p>If a shepherd, without the permission of the owner of the field, and without the knowledge of the owner of the sheep, lets the sheep into a field to graze, then the owner of the field shall harvest his crop, and the shepherd, who had pastured his flock there without permission of the owner of the field, shall pay to the owner twenty gur of corn for every ten gan.</p></content>
       </section>
-      <section eId="sec_58">
+      <section eId="sec_58" GUID="F0E85A9A-098C-403E-B123-8A8DCF538297">
         <num>58</num>
         <content><p>If after the flocks have left the pasture and been shut up in the common fold at the city gate, any shepherd let them into a field and they graze there, this shepherd shall take possession of the field which he has allowed to be grazed on, and at the harvest he must pay sixty gur of corn for every ten gan.</p></content>
       </section>
-      <section eId="sec_59">
+      <section eId="sec_59" GUID="2FBDB586-4DD0-45BE-9FB3-5CC36BBF8743">
         <num>59</num>
         <content><p>If any man, without the knowledge of the owner of a garden, fell a tree in a garden he shall pay half a mina in money.</p></content>
       </section>
-      <section eId="sec_60">
+      <section eId="sec_60" GUID="39F6EC5F-BA9A-4A70-8458-1F2D63EEF7E7">
         <num>60</num>
         <content><p>If any one give over a field to a gardener, for him to plant it as a garden, if he work at it, and care for it for four years, in the fifth year the owner and the gardener shall divide it, the owner taking his part in charge.</p></content>
       </section>
-      <section eId="sec_61">
+      <section eId="sec_61" GUID="90072273-CF46-4FBD-BA46-95A559145BBC">
         <num>61</num>
         <content><p>If the gardener has not completed the planting of the field, leaving one part unused, this shall be assigned to him as his.</p></content>
       </section>
-      <section eId="sec_62">
+      <section eId="sec_62" GUID="D40BDFFE-C16A-4102-A7D1-6532DBCE7704">
         <num>62</num>
         <content><p>If he do not plant the field that was given over to him as a garden, if it be arable land (for corn or sesame) the gardener shall pay the owner the produce of the field for the years that he let it lie fallow, according to the product of neighboring fields, put the field in arable condition and return it to its owner.</p></content>
       </section>
-      <section eId="sec_63">
+      <section eId="sec_63" GUID="87850136-8CE5-40DC-8785-0ACA0C85A7E3">
         <num>63</num>
         <content><p>If he transform waste land into arable fields and return it to its owner, the latter shall pay him for one year ten gur for ten gan.</p></content>
       </section>
-      <section eId="sec_64">
+      <section eId="sec_64" GUID="5801B153-209F-49B7-9E05-8BD02A4284CF">
         <num>64</num>
         <content><p>If any one hand over his garden to a gardener to work, the gardener shall pay to its owner two-thirds of the produce of the garden, for so long as he has it in possession, and the other third shall he keep.</p></content>
       </section>
-      <section eId="sec_65">
+      <section eId="sec_65" GUID="2FD65213-5ACA-4131-B2D6-8A58A1F2053E">
         <num>65</num>
         <content><p>If the gardener do not work in the garden and the product fall off, the gardener shall pay in proportion to other neighboring gardens.</p></content>
       </section>
-      <hcontainer name="lacuna" eId="lacuna_1">
+      <hcontainer name="lacuna" eId="lacuna_1" GUID="26342FC8-2D8D-4B71-975A-44A213658914">
         <content><p><span class="gloss">[Here a portion of the text is missing, apparently comprising thirty-four paragraphs.]</span></p></content>
       </hcontainer>
-      <section eId="sec_100">
+      <section eId="sec_100" GUID="9F29B8C1-427B-4610-B125-3159273812D9">
         <num>100</num>
         <content><p><omissis>. . .</omissis> interest for the money, as much as he has received, he shall give a note therefor, and on the day, when they settle, pay to the merchant.</p></content>
       </section>
-      <section eId="sec_101">
+      <section eId="sec_101" GUID="2D9F1FB1-21BA-4315-8FD5-3E72DC71AF7C">
         <num>101</num>
         <content><p>If there are no mercantile arrangements in the place whither he went, he shall leave the entire amount of money which he received with the broker to give to the merchant.</p></content>
       </section>
-      <section eId="sec_102">
+      <section eId="sec_102" GUID="60FF1C5B-C4C8-4B3A-BD02-E6F8273AF399">
         <num>102</num>
         <content><p>If a merchant entrust money to an agent (broker) for some investment, and the broker suffer a loss in the place to which he goes, he shall make good the capital to the merchant.</p></content>
       </section>
-      <section eId="sec_103">
+      <section eId="sec_103" GUID="9B6FADAA-65FC-4E59-A81C-48DC14373A0F">
         <num>103</num>
         <content><p>If, while on the journey, an enemy take away from him anything that he had, the broker shall swear by God and be free of obligation.</p></content>
       </section>
-      <section eId="sec_104">
+      <section eId="sec_104" GUID="A5FE25A7-8961-4FB5-B608-7F4B0F0A3CC2">
         <num>104</num>
         <content><p>If a merchant give an agent corn, wool, oil, or any other goods to transport, the agent shall give a receipt for the amount, and compensate the merchant therefor. Then he shall obtain a receipt form the merchant for the money that he gives the merchant.</p></content>
       </section>
-      <section eId="sec_105">
+      <section eId="sec_105" GUID="9B0D8157-781F-458A-A0D7-8A041684DC1C">
         <num>105</num>
         <content><p>If the agent is careless, and does not take a receipt for the money which he gave the merchant, he can not consider the unreceipted money as his own.</p></content>
       </section>
-      <section eId="sec_106">
+      <section eId="sec_106" GUID="FCD6ED1A-6B93-4C31-A10E-AAC9EDA07AA4">
         <num>106</num>
         <content><p>If the agent accept money from the merchant, but have a quarrel with the merchant (denying the receipt), then shall the merchant swear before God and witnesses that he has given this money to the agent, and the agent shall pay him three times the sum.</p></content>
       </section>
-      <section eId="sec_107">
+      <section eId="sec_107" GUID="D373890C-6DE2-4357-97CC-3FA2A7DEF8EC">
         <num>107</num>
         <content><p>If the merchant cheat the agent, in that as the latter has returned to him all that had been given him, but the merchant denies the receipt of what had been returned to him, then shall this agent convict the merchant before God and the judges, and if he still deny receiving what the agent had given him shall pay six times the sum to the agent.</p></content>
       </section>
-      <section eId="sec_108">
+      <section eId="sec_108" GUID="4F8707D1-50BA-4B32-953D-85E942AFA845">
         <num>108</num>
         <content><p>If a tavern-keeper (feminine) does not accept corn according to gross weight in payment of drink, but takes money, and the price of the drink is less than that of the corn, she shall be convicted and thrown into the water.</p></content>
       </section>
-      <section eId="sec_109">
+      <section eId="sec_109" GUID="745BB974-6245-4C8B-9BBA-76BA440EEC59">
         <num>109</num>
         <content><p>If conspirators meet in the house of a tavern-keeper, and these conspirators are not captured and delivered to the court, the tavern-keeper shall be put to death.</p></content>
       </section>
-      <section eId="sec_110">
+      <section eId="sec_110" GUID="9271F0F5-CBF4-457B-AF5B-F636F409106F">
         <num>110</num>
-        <content><p>If a “sister of a god” open a tavern, or enter a tavern to drink, then shall this woman be burned to death.</p></content>
+        <content><p>If a "sister of a god" open a tavern, or enter a tavern to drink, then shall this woman be burned to death.</p></content>
       </section>
-      <section eId="sec_111">
+      <section eId="sec_111" GUID="91FA0BFF-0A0D-4C46-A1D3-70CAD3E35EB7">
         <num>111</num>
         <content><p>If an inn-keeper furnish sixty ka of usakani-drink to <omissis>. . .</omissis> she shall receive fifty ka of corn at the harvest.</p></content>
       </section>
-      <section eId="sec_112">
+      <section eId="sec_112" GUID="99605C80-04BB-4033-9925-A96D93037A5D">
         <num>112</num>
         <content><p>If any one be on a journey and entrust silver, gold, precious stones, or any movable property to another, and wish to recover it from him; if the latter do not bring all of the property to the appointed place, but appropriate it to his own use, then shall this man, who did not bring the property to hand it over, be convicted, and he shall pay fivefold for all that had been entrusted to him.</p></content>
       </section>
-      <section eId="sec_113">
+      <section eId="sec_113" GUID="7A0A06FE-2C90-44E6-A665-7A374D5F875A">
         <num>113</num>
         <content><p>If any one have consignment of corn or money, and he take from the granary or box without the knowledge of the owner, then shall he who took corn without the knowledge of the owner out of the granary or money out of the box be legally convicted, and repay the corn he has taken. And he shall lose whatever commission was paid to him, or due him.</p></content>
       </section>
-      <section eId="sec_114">
+      <section eId="sec_114" GUID="DE18CA3B-C4B3-4F5A-9316-65A081CB03B8">
         <num>114</num>
         <content><p>If a man have no claim on another for corn and money, and try to demand it by force, he shall pay one-third of a mina of silver in every case.</p></content>
       </section>
-      <section eId="sec_115">
+      <section eId="sec_115" GUID="FF55293F-E24C-4EB5-9E74-167E6A870D1D">
         <num>115</num>
         <content><p>If any one have a claim for corn or money upon another and imprison him; if the prisoner die in prison a natural death, the case shall go no further.</p></content>
       </section>
-      <section eId="sec_116">
+      <section eId="sec_116" GUID="E611B3F6-B22F-4385-B4ED-8517791BC1D3">
         <num>116</num>
         <content><p>If the prisoner die in prison from blows or maltreatment, the master of the prisoner shall convict the merchant before the judge. If he was a free-born man, the son of the merchant shall be put to death; if it was a slave, he shall pay one-third of a mina of gold, and all that the master of the prisoner gave he shall forfeit.</p></content>
       </section>
-      <section eId="sec_117">
+      <section eId="sec_117" GUID="40B9EF9B-5605-45D0-B528-1B9382567E76">
         <num>117</num>
         <content><p>If any one fail to meet a claim for debt, and sell himself, his wife, his son, and daughter for money or give them away to forced labor: they shall work for three years in the house of the man who bought them, or the proprietor, and in the fourth year they shall be set free.</p></content>
       </section>
-      <section eId="sec_118">
+      <section eId="sec_118" GUID="241DF9A4-8DF4-413D-AED3-2787701254DB">
         <num>118</num>
         <content><p>If he give a male or female slave away for forced labor, and the merchant sublease them, or sell them for money, no objection can be raised.</p></content>
       </section>
-      <section eId="sec_119">
+      <section eId="sec_119" GUID="CEC65976-3E7F-4CBB-B3C0-6C0AD08A995B">
         <num>119</num>
         <content><p>If any one fail to meet a claim for debt, and he sell the maid servant who has borne him children, for money, the money which the merchant has paid shall be repaid to him by the owner of the slave and she shall be freed.</p></content>
       </section>
-      <section eId="sec_120">
+      <section eId="sec_120" GUID="C6D11176-3B93-4000-81E1-2F4A19924738">
         <num>120</num>
-        <content><p>If any one store corn for safe keeping in another person’s house, and any harm happen to the corn in storage, or if the owner of the house open the granary and take some of the corn, or if especially he deny that the corn was stored in his house: then the owner of the corn shall claim his corn before God (on oath), and the owner of the house shall pay its owner for all of the corn that he took.</p></content>
+        <content><p>If any one store corn for safe keeping in another person's house, and any harm happen to the corn in storage, or if the owner of the house open the granary and take some of the corn, or if especially he deny that the corn was stored in his house: then the owner of the corn shall claim his corn before God (on oath), and the owner of the house shall pay its owner for all of the corn that he took.</p></content>
       </section>
-      <section eId="sec_121">
+      <section eId="sec_121" GUID="E378582A-C1A5-490D-987D-1D6067DACB53">
         <num>121</num>
-        <content><p>If any one store corn in another man’s house he shall pay him storage at the rate of one gur for every five ka of corn per year.</p></content>
+        <content><p>If any one store corn in another man's house he shall pay him storage at the rate of one gur for every five ka of corn per year.</p></content>
       </section>
-      <section eId="sec_122">
+      <section eId="sec_122" GUID="5660A999-B70E-4864-9BDD-C39209DCFFB8">
         <num>122</num>
         <content><p>If any one give another silver, gold, or anything else to keep, he shall show everything to some witness, draw up a contract, and then hand it over for safe keeping.</p></content>
       </section>
-      <section eId="sec_123">
+      <section eId="sec_123" GUID="E1C3B5DC-D54A-4A52-868D-7CB5B6AE8999">
         <num>123</num>
         <content><p>If he turn it over for safe keeping without witness or contract, and if he to whom it was given deny it, then he has no legitimate claim.</p></content>
       </section>
-      <section eId="sec_124">
+      <section eId="sec_124" GUID="A8DE2E27-2BA3-4F47-9DC3-9BB54D77EE8A">
         <num>124</num>
         <content><p>If any one deliver silver, gold, or anything else to another for safe keeping, before a witness, but he deny it, he shall be brought before a judge, and all that he has denied he shall pay in full.</p></content>
       </section>
-      <section eId="sec_125">
+      <section eId="sec_125" GUID="96D6F5D2-9192-4081-AF56-6396DDB54A35">
         <num>125</num>
         <content><p>If any one place his property with another for safe keeping, and there, either through thieves or robbers, his property and the property of the other man be lost, the owner of the house, through whose neglect the loss took place, shall compensate the owner for all that was given to him in charge. But the owner of the house shall try to follow up and recover his property, and take it away from the thief.</p></content>
       </section>
-      <section eId="sec_126">
+      <section eId="sec_126" GUID="08399407-3B4F-45E7-B1AB-53A9E25AD842">
         <num>126</num>
         <content><p>If any one who has not lost his goods state that they have been lost, and make false claims: if he claim his goods and amount of injury before God, even though he has not lost them, he shall be fully compensated for all his loss claimed. (I.e., the oath is all that is needed.)</p></content>
       </section>
-      <section eId="sec_127">
+      <section eId="sec_127" GUID="7D39B61B-3325-49FC-96ED-AE096EADBEC8">
         <num>127</num>
-        <content><p>If any one “point the finger” (slander) at a sister of a god or the wife of any one, and can not prove it, this man shall be taken before the judges and his brow shall be marked. (by cutting the skin, or perhaps hair.)</p></content>
+        <content><p>If any one "point the finger" (slander) at a sister of a god or the wife of any one, and can not prove it, this man shall be taken before the judges and his brow shall be marked. (by cutting the skin, or perhaps hair.)</p></content>
       </section>
-      <section eId="sec_128">
+      <section eId="sec_128" GUID="E58AFFFA-92BD-4884-8A51-D0C0E8559C0F">
         <num>128</num>
         <content><p>If a man take a woman to wife, but have no intercourse with her, this woman is no wife to him.</p></content>
       </section>
-      <section eId="sec_129">
+      <section eId="sec_129" GUID="8FA04D60-6449-446C-8335-B1C5ADC3EA49">
         <num>129</num>
-        <content><p>If a man’s wife be surprised (in flagrante delicto) with another man, both shall be tied and thrown into the water, but the husband may pardon his wife and the king his slaves.</p></content>
+        <content><p>If a man's wife be surprised (in flagrante delicto) with another man, both shall be tied and thrown into the water, but the husband may pardon his wife and the king his slaves.</p></content>
       </section>
-      <section eId="sec_130">
+      <section eId="sec_130" GUID="13F23206-DA3E-4BBB-93CD-72B7A68E337B">
         <num>130</num>
-        <content><p>If a man violate the wife (betrothed or child-wife) of another man, who has never known a man, and still lives in her father’s house, and sleep with her and be surprised, this man shall be put to death, but the wife is blameless.</p></content>
+        <content><p>If a man violate the wife (betrothed or child-wife) of another man, who has never known a man, and still lives in her father's house, and sleep with her and be surprised, this man shall be put to death, but the wife is blameless.</p></content>
       </section>
-      <section eId="sec_131">
+      <section eId="sec_131" GUID="C7C771FC-A63F-4EF0-BDE0-963542D89B7C">
         <num>131</num>
-        <content><p>If a man bring a charge against one’s wife, but she is not surprised with another man, she must take an oath and then may return to her house.</p></content>
+        <content><p>If a man bring a charge against one's wife, but she is not surprised with another man, she must take an oath and then may return to her house.</p></content>
       </section>
-      <section eId="sec_132">
+      <section eId="sec_132" GUID="C05DE0C1-2033-48A6-9B00-DE443311B210">
         <num>132</num>
-        <content><p>If the “finger is pointed” at a man’s wife about another man, but she is not caught sleeping with the other man, she shall jump into the river for her husband.</p></content>
+        <content><p>If the "finger is pointed" at a man's wife about another man, but she is not caught sleeping with the other man, she shall jump into the river for her husband.</p></content>
       </section>
-      <section eId="sec_133">
+      <section eId="sec_133" GUID="4691E0EB-56C5-400E-8F40-E01B186E8F46">
         <num>133</num>
         <content><p>If a man is taken prisoner in war, and there is a sustenance in his house, but his wife leave house and court, and go to another house:  because this wife did not keep her court, and went to another house, she shall be judicially condemned and thrown into the water.</p></content>
       </section>
-      <section eId="sec_134">
+      <section eId="sec_134" GUID="6C9BDCBC-15B2-434A-9A34-5D130880430A">
         <num>134</num>
         <content><p>If any one be captured in war and there is not sustenance in his house, if then his wife go to another house this woman shall be held blameless.</p></content>
       </section>
-      <section eId="sec_135">
+      <section eId="sec_135" GUID="0CB1D036-39F1-4765-ACC2-5F0CDC551761">
         <num>135</num>
         <content><p>If a man be taken prisoner in war and there be no sustenance in his house and his wife go to another house and bear children; and if later her husband return and come to his home: then this wife shall return to her husband, but the children follow their father.</p></content>
       </section>
-      <section eId="sec_136">
+      <section eId="sec_136" GUID="7D71F5C0-C64C-4AD6-8568-D520B732E084">
         <num>136</num>
         <content><p>If any one leave his house, run away, and then his wife go to another house, if then he return, and wishes to take his wife back: because he fled from his home and ran away, the wife of this runaway shall not return to her husband.</p></content>
       </section>
-      <section eId="sec_137">
+      <section eId="sec_137" GUID="C521FE35-0FD2-4518-9C88-EE415C204579">
         <num>137</num>
         <content><p>If a man wish to separate from a woman who has borne him children, or from his wife who has borne him children: then he shall give that wife her dowry, and a part of the usufruct of field, garden, and property, so that she can rear her children. When she has brought up her children, a portion of all that is given to the children, equal as that of one son, shall be given to her. She may then marry the man of her heart.</p></content>
       </section>
-      <section eId="sec_138">
+      <section eId="sec_138" GUID="F44954EF-81F5-4DF4-BB79-F29E260B7289">
         <num>138</num>
-        <content><p>If a man wishes to separate from his wife who has borne him no children, he shall give her the amount of her purchase money and the dowry which she brought from her father’s house, and let her go.</p></content>
+        <content><p>If a man wishes to separate from his wife who has borne him no children, he shall give her the amount of her purchase money and the dowry which she brought from her father's house, and let her go.</p></content>
       </section>
-      <section eId="sec_139">
+      <section eId="sec_139" GUID="5AA7E4F7-8BFD-42EC-8D58-FFDF0A8953CB">
         <num>139</num>
         <content><p>If there was no purchase price he shall give her one mina of gold as a gift of release.</p></content>
       </section>
-      <section eId="sec_140">
+      <section eId="sec_140" GUID="47105C61-65FE-47A0-89A9-43FB2B4FF97F">
         <num>140</num>
         <content><p>If he be a freed man he shall give her one-third of a mina of gold.</p></content>
       </section>
-      <section eId="sec_141">
+      <section eId="sec_141" GUID="DD50FB68-1C37-4392-9908-89D1EAC2DFA6">
         <num>141</num>
-        <content><p>If a man’s wife, who lives in his house, wishes to leave it, plunges into debt, tries to ruin her house, neglects her husband, and is judicially convicted: if her husband offer her release, she may go on her way, and he gives her nothing as a gift of release. If her husband does not wish to release her, and if he take another wife, she shall remain as servant in her husband’s house.</p></content>
+        <content><p>If a man's wife, who lives in his house, wishes to leave it, plunges into debt, tries to ruin her house, neglects her husband, and is judicially convicted: if her husband offer her release, she may go on her way, and he gives her nothing as a gift of release. If her husband does not wish to release her, and if he take another wife, she shall remain as servant in her husband's house.</p></content>
       </section>
-      <section eId="sec_142">
+      <section eId="sec_142" GUID="F3BCA084-3DAD-4E47-86C2-59AE4800FA4B">
         <num>142</num>
-        <content><p>If a woman quarrel with her husband, and say: “You are not congenial to me,” the reasons for her prejudice must be presented. If she is guiltless, and there is no fault on her part, but he leaves and neglects her, then no guilt attaches to this woman, she shall take her dowry and go back to her father’s house.</p></content>
+        <content><p>If a woman quarrel with her husband, and say: "You are not congenial to me," the reasons for her prejudice must be presented. If she is guiltless, and there is no fault on her part, but he leaves and neglects her, then no guilt attaches to this woman, she shall take her dowry and go back to her father's house.</p></content>
       </section>
-      <section eId="sec_143">
+      <section eId="sec_143" GUID="601871D2-37C2-45ED-ABDB-259C7E985B2E">
         <num>143</num>
         <content><p>If she is not innocent, but leaves her husband, and ruins her house, neglecting her husband, this woman shall be cast into the water.</p></content>
       </section>
-      <section eId="sec_144">
+      <section eId="sec_144" GUID="4D642A8C-21CD-4F24-B198-1E6AF60E2670">
         <num>144</num>
         <content><p>If a man take a wife and this woman give her husband a maid-servant, and she bear him children, but this man wishes to take another wife, this shall not be permitted to him; he shall not take a second wife.</p></content>
       </section>
-      <section eId="sec_145">
+      <section eId="sec_145" GUID="451BAE8A-087E-47D6-A2D1-DCA4E8D2CC44">
         <num>145</num>
         <content><p>If a man take a wife, and she bear him no children, and he intend to take another wife: if he take this second wife, and bring her into the house, this second wife shall not be allowed equality with his wife.</p></content>
       </section>
-      <section eId="sec_146">
+      <section eId="sec_146" GUID="D2E82D63-C0AF-454E-BA76-CF9CB526EB7F">
         <num>146</num>
         <content><p>If a man take a wife and she give this man a maid-servant as wife and she bear him children, and then this maid assume equality with the wife: because she has borne him children her master shall not sell her for money, but he may keep her as a slave, reckoning her among the maid-servants.</p></content>
       </section>
-      <section eId="sec_147">
+      <section eId="sec_147" GUID="B8FFDC32-ADB2-4840-880E-EB18E7C3966A">
         <num>147</num>
         <content><p>If she have not borne him children, then her mistress may sell her for money.</p></content>
       </section>
-      <section eId="sec_148">
+      <section eId="sec_148" GUID="D6188C39-CD8D-4EFB-B68F-8075F74918C6">
         <num>148</num>
         <content><p>If a man take a wife, and she be seized by disease, if he then desire to take a second wife he shall not put away his wife, who has been attacked by disease, but he shall keep her in the house which he has built and support her so long as she lives.</p></content>
       </section>
-      <section eId="sec_149">
+      <section eId="sec_149" GUID="D35059AF-D662-4537-A3A4-9F3BF8229AC0">
         <num>149</num>
-        <content><p>If this woman does not wish to remain in her husband’s house, then he shall compensate her for the dowry that she brought with her from her father’s house, and she may go.</p></content>
+        <content><p>If this woman does not wish to remain in her husband's house, then he shall compensate her for the dowry that she brought with her from her father's house, and she may go.</p></content>
       </section>
-      <section eId="sec_150">
+      <section eId="sec_150" GUID="AFF05328-5C6E-4C24-9656-B8F8E95E49E7">
         <num>150</num>
         <content><p>If a man give his wife a field, garden, and house and a deed therefor, if then after the death of her husband the sons raise no claim, then the mother may bequeath all to one of her sons whom she prefers, and need leave nothing to his brothers.</p></content>
       </section>
-      <section eId="sec_151">
+      <section eId="sec_151" GUID="EA877315-F3BC-4CF5-A12C-96906D6E5667">
         <num>151</num>
-        <content><p>If a woman who lived in a man’s house made an agreement with her husband, that no creditor can arrest her, and has given a document therefor: if that man, before he married that woman, had a debt, the creditor can not hold the woman for it. But if the woman, before she entered the man’s house, had contracted a debt, her creditor can not arrest her husband therefor.</p></content>
+        <content><p>If a woman who lived in a man's house made an agreement with her husband, that no creditor can arrest her, and has given a document therefor: if that man, before he married that woman, had a debt, the creditor can not hold the woman for it. But if the woman, before she entered the man's house, had contracted a debt, her creditor can not arrest her husband therefor.</p></content>
       </section>
-      <section eId="sec_152">
+      <section eId="sec_152" GUID="EC5E8089-0260-4371-9C8A-41F16CAEB0D3">
         <num>152</num>
-        <content><p>If after the woman had entered the man’s house, both contracted a debt, both must pay the merchant.</p></content>
+        <content><p>If after the woman had entered the man's house, both contracted a debt, both must pay the merchant.</p></content>
       </section>
-      <section eId="sec_153">
+      <section eId="sec_153" GUID="A6D40AE3-1F27-4BC3-AA92-4E1F23A27064">
         <num>153</num>
-        <content><p>If the wife of one man on account of another man has their mates (her husband and the other man’s wife) murdered, both of them shall be impaled.</p></content>
+        <content><p>If the wife of one man on account of another man has their mates (her husband and the other man's wife) murdered, both of them shall be impaled.</p></content>
       </section>
-      <section eId="sec_154">
+      <section eId="sec_154" GUID="095BEA90-C25C-4A55-8E74-7803978465A5">
         <num>154</num>
         <content><p>If a man be guilty of incest with his daughter, he shall be driven from the place (exiled).</p></content>
       </section>
-      <section eId="sec_155">
+      <section eId="sec_155" GUID="E28719BD-5D5D-42EE-BEA3-CDD8FBB88CEC">
         <num>155</num>
         <content><p>If a man betroth a girl to his son, and his son have intercourse with her, but he (the father) afterward defile her, and be surprised, then he shall be bound and cast into the water (drowned).</p></content>
       </section>
-      <section eId="sec_156">
+      <section eId="sec_156" GUID="D985CC37-1865-4FE5-8DEE-587B35ABB2F4">
         <num>156</num>
-        <content><p>If a man betroth a girl to his son, but his son has not known her, and if then he defile her, he shall pay her half a gold mina, and compensate her for all that she brought out of her father’s house. She may marry the man of her heart.</p></content>
+        <content><p>If a man betroth a girl to his son, but his son has not known her, and if then he defile her, he shall pay her half a gold mina, and compensate her for all that she brought out of her father's house. She may marry the man of her heart.</p></content>
       </section>
-      <section eId="sec_157">
+      <section eId="sec_157" GUID="4FA0D9F3-F177-4FA3-B35E-0175BB61F115">
         <num>157</num>
         <content><p>If any one be guilty of incest with his mother after his father, both shall be burned.</p></content>
       </section>
-      <section eId="sec_158">
+      <section eId="sec_158" GUID="02BB3B7B-D80D-4356-B9EA-41B320840722">
         <num>158</num>
-        <content><p>If any one be surprised after his father with his chief wife, who has borne children, he shall be driven out of his father’s house.</p></content>
+        <content><p>If any one be surprised after his father with his chief wife, who has borne children, he shall be driven out of his father's house.</p></content>
       </section>
-      <section eId="sec_159">
+      <section eId="sec_159" GUID="BE9692D1-1D9F-4DA5-BE16-0AFA98ED93CB">
         <num>159</num>
-        <content><p>If any one, who has brought chattels into his father-in-law’s house, and has paid the  purchase-money, looks for another wife, and says to his father-in-law: “I do not want your daughter,” the girl’s father may keep all that he had brought.</p></content>
+        <content><p>If any one, who has brought chattels into his father-in-law's house, and has paid the  purchase-money, looks for another wife, and says to his father-in-law: "I do not want your daughter," the girl's father may keep all that he had brought.</p></content>
       </section>
-      <section eId="sec_160">
+      <section eId="sec_160" GUID="D8A5F433-BAF6-4717-9FDF-81D319161B34">
         <num>160</num>
-        <content><p>If a man bring chattels into the house of his father-in-law, and pay the “purchase price” (for his wife): if then the father of the girl say: “I will not give you my daughter,” he shall give him back all that he brought with him.</p></content>
+        <content><p>If a man bring chattels into the house of his father-in-law, and pay the "purchase price" (for his wife): if then the father of the girl say: "I will not give you my daughter," he shall give him back all that he brought with him.</p></content>
       </section>
-      <section eId="sec_161">
+      <section eId="sec_161" GUID="904F421D-D43D-4C8A-BBD2-082EA2BE1452">
         <num>161</num>
-        <content><p>If a man bring chattels into his father-in-law’s house and pay the “purchase price,” if then his friend slander him, and his father-in-law say to the young husband: “You shall not marry my daughter,” the he shall give back to him undiminished all that he had brought with him; but his wife shall not be married to the friend.</p></content>
+        <content><p>If a man bring chattels into his father-in-law's house and pay the "purchase price," if then his friend slander him, and his father-in-law say to the young husband: "You shall not marry my daughter," the he shall give back to him undiminished all that he had brought with him; but his wife shall not be married to the friend.</p></content>
       </section>
-      <section eId="sec_162">
+      <section eId="sec_162" GUID="3672E873-B1A4-4262-8B4D-52A7D9ECF63E">
         <num>162</num>
         <content><p>If a man marry a woman, and she bear sons to him; if then this woman die, then shall her father have no claim on her dowry; this belongs to her sons.</p></content>
       </section>
-      <section eId="sec_163">
+      <section eId="sec_163" GUID="CBF68348-FA88-4480-AC67-E0FF776E6DD9">
         <num>163</num>
-        <content><p>If a man marry a woman and she bear him no sons; if then this woman die, if the “purchase price” which he had paid into the house of his father-in-law is repaid to him, her husband shall have no claim upon the dowry of this woman; it belongs to her father’s house.</p></content>
+        <content><p>If a man marry a woman and she bear him no sons; if then this woman die, if the "purchase price" which he had paid into the house of his father-in-law is repaid to him, her husband shall have no claim upon the dowry of this woman; it belongs to her father's house.</p></content>
       </section>
-      <section eId="sec_164">
+      <section eId="sec_164" GUID="E1A313C3-8173-4AED-8B3F-AD2C1D5FA05C">
         <num>164</num>
-        <content><p>If his father-in-law do not pay back to him the amount of the “purchase price” he may subtract the amount of the “Purchase price” from the dowry, and then pay the remainder to her father’s house.</p></content>
+        <content><p>If his father-in-law do not pay back to him the amount of the "purchase price" he may subtract the amount of the "Purchase price" from the dowry, and then pay the remainder to her father's house.</p></content>
       </section>
-      <section eId="sec_165">
+      <section eId="sec_165" GUID="46DBBE90-4659-4649-8C40-00694D65A0CE">
         <num>165</num>
         <content><p>If a man give to one of his sons whom he prefers a field, garden, and house, and a deed therefor: if later the father die, and the brothers divide the estate, then they shall first give him the present of his father, and he shall accept it; and the rest of the paternal property shall they divide.</p></content>
       </section>
-      <section eId="sec_166">
+      <section eId="sec_166" GUID="896A073A-4079-4306-99E2-E3148D72B82E">
         <num>166</num>
-        <content><p>If a man take wives for his son, but take no wife for his minor son, and if then he die: if the sons divide the estate, they shall set aside besides his portion the money for the “purchase price” for the minor brother who had taken no wife as yet, and secure a wife for him.</p></content>
+        <content><p>If a man take wives for his son, but take no wife for his minor son, and if then he die: if the sons divide the estate, they shall set aside besides his portion the money for the "purchase price" for the minor brother who had taken no wife as yet, and secure a wife for him.</p></content>
       </section>
-      <section eId="sec_167">
+      <section eId="sec_167" GUID="E2A4FC22-0B6D-47BF-9AF7-BCFCA41623CD">
         <num>167</num>
         <content><p>If a man marry a wife and she bear him children: if this wife die and he then take another wife and she bear him children: if then the father die, the sons must not partition the estate according to the mothers, they shall divide the dowries of their mothers only in this way; the paternal estate they shall divide equally with one another.</p></content>
       </section>
-      <section eId="sec_168">
+      <section eId="sec_168" GUID="8D6800CE-3913-4897-8C71-E352177F98F5">
         <num>168</num>
-        <content><p>If a man wish to put his son out of his house, and declare before the judge: “I want to put my son out,” then the judge shall examine into his reasons. If the son be guilty of no great fault, for which he can be rightfully put out, the father shall not put him out.</p></content>
+        <content><p>If a man wish to put his son out of his house, and declare before the judge: "I want to put my son out," then the judge shall examine into his reasons. If the son be guilty of no great fault, for which he can be rightfully put out, the father shall not put him out.</p></content>
       </section>
-      <section eId="sec_169">
+      <section eId="sec_169" GUID="EB8E62B8-F554-44E1-83FF-06DC26F9EF3D">
         <num>169</num>
         <content><p>If he be guilty of a grave fault, which should rightfully deprive him of the filial relationship, the father shall forgive him the first time; but if he be guilty of a grave fault a second time the father may deprive his son of all filial relation.</p></content>
       </section>
-      <section eId="sec_170">
+      <section eId="sec_170" GUID="5E79BDA1-1EED-425E-A005-C46E2CA11FED">
         <num>170</num>
-        <content><p>If his wife bear sons to a man, or his maid-servant have borne sons, and the father while still living says to the children whom his maid-servant has borne: “My sons,” and he count them with the sons of his wife; if then the father die, then the sons of the wife and of the maid-servant shall divide the paternal property in common. The son of the wife is to partition and choose.</p></content>
+        <content><p>If his wife bear sons to a man, or his maid-servant have borne sons, and the father while still living says to the children whom his maid-servant has borne: "My sons," and he count them with the sons of his wife; if then the father die, then the sons of the wife and of the maid-servant shall divide the paternal property in common. The son of the wife is to partition and choose.</p></content>
       </section>
-      <section eId="sec_171">
+      <section eId="sec_171" GUID="C00B0EA4-B05E-4E06-A3A4-6A91FFDE9492">
         <num>171</num>
-        <content><p>If, however, the father while still living did not say to the sons of the maid-servant: “My sons,” and then the father dies, then the sons of the maid-servant shall not share with the sons of the wife, but the freedom of the maid and her sons shall be granted. The sons of the wife shall have no right to enslave the sons of the maid; the wife shall take her dowry (from her father), and the gift that her husband gave her and deeded to her (separate from dowry, or the purchase-money paid her father), and live in the home of her husband: so long as she lives she shall use it, it shall not be sold for money. Whatever she leaves shall belong to her children.</p></content>
+        <content><p>If, however, the father while still living did not say to the sons of the maid-servant: "My sons," and then the father dies, then the sons of the maid-servant shall not share with the sons of the wife, but the freedom of the maid and her sons shall be granted. The sons of the wife shall have no right to enslave the sons of the maid; the wife shall take her dowry (from her father), and the gift that her husband gave her and deeded to her (separate from dowry, or the purchase-money paid her father), and live in the home of her husband: so long as she lives she shall use it, it shall not be sold for money. Whatever she leaves shall belong to her children.</p></content>
       </section>
-      <section eId="sec_172">
+      <section eId="sec_172" GUID="8BB51EB1-9AB4-4983-AE6C-16D9ABEBBDDD">
         <num>172</num>
-        <content><p>If her husband made her no gift, she shall be compensated for her gift, and she shall receive a portion from the estate of her husband, equal to that of one child. If her sons oppress her, to force her out of the house, the judge shall examine into the matter, and if the sons are at fault the woman shall not leave her husband’s house. If the woman desire to leave the house, she must leave to her sons the gift which her husband gave her, but she may take the dowry of her father’s house. Then she may marry the man of her heart.</p></content>
+        <content><p>If her husband made her no gift, she shall be compensated for her gift, and she shall receive a portion from the estate of her husband, equal to that of one child. If her sons oppress her, to force her out of the house, the judge shall examine into the matter, and if the sons are at fault the woman shall not leave her husband's house. If the woman desire to leave the house, she must leave to her sons the gift which her husband gave her, but she may take the dowry of her father's house. Then she may marry the man of her heart.</p></content>
       </section>
-      <section eId="sec_173">
+      <section eId="sec_173" GUID="E2B7FC58-B927-4F05-A43F-6BE8C400B5E1">
         <num>173</num>
         <content><p>If this woman bear sons to her second husband, in the place to which she went, and then die, her earlier and later sons shall divide the dowry between them.</p></content>
       </section>
-      <section eId="sec_174">
+      <section eId="sec_174" GUID="B84D65E1-3AF3-423A-BC08-1D5B1B2F20F9">
         <num>174</num>
         <content><p>If she bear no sons to her second husband, the sons of her first husband shall have the dowry.</p></content>
       </section>
-      <section eId="sec_175">
+      <section eId="sec_175" GUID="3AB80006-4461-401C-B49A-81EED3B5D79F">
         <num>175</num>
         <content><p>If a State slave or the slave of a freed man marry the daughter of a free man, and children are born, the master of the slave shall have no right to enslave the children of the free.</p></content>
       </section>
-      <section eId="sec_176">
+      <section eId="sec_176" GUID="BBC508C2-A134-45BF-A173-D7D624625419">
         <num>176</num>
-        <content><p>If, however, a State slave or the slave of a freed man marry a man’s daughter, and after he marries her she bring a dowry from a father’s house, if then they both enjoy it and found a household, and accumulate means, if then the slave die, then she who was free born may take her dowry, and all that her husband and she had earned; she shall divide them into two parts, one-half the master for the slave shall take, and the other half shall the free-born woman take for her children. If the free-born woman had no gift she shall take all that her husband and she had earned and divide it into two parts; and the master of the slave shall take one-half and she shall take the other for her children.</p></content>
+        <content><p>If, however, a State slave or the slave of a freed man marry a man's daughter, and after he marries her she bring a dowry from a father's house, if then they both enjoy it and found a household, and accumulate means, if then the slave die, then she who was free born may take her dowry, and all that her husband and she had earned; she shall divide them into two parts, one-half the master for the slave shall take, and the other half shall the free-born woman take for her children. If the free-born woman had no gift she shall take all that her husband and she had earned and divide it into two parts; and the master of the slave shall take one-half and she shall take the other for her children.</p></content>
       </section>
-      <section eId="sec_177">
+      <section eId="sec_177" GUID="AC802C9E-A99C-4B1A-B11E-F499362F4650">
         <num>177</num>
         <content><p>If a widow, whose children are not grown, wishes to enter another house (remarry), she shall not enter it without the knowledge of the judge. If she enter another house the judge shall examine the state of the house of her first husband. Then the house of her first husband shall be entrusted to the second husband and the woman herself as managers. And a record must be made thereof. She shall keep the house in order, bring up the children, and not sell the house-hold utensils. He who buys the utensils of the children of a widow shall lose his money, and the goods shall return to their owners.</p></content>
       </section>
-      <section eId="sec_178">
+      <section eId="sec_178" GUID="982E4C38-BF6F-4B0B-931D-902C245F7B92">
         <num>178</num>
-        <content><p>If a “devoted woman” or a prostitute to whom her father has given a dowry and a deed therefor, but if in this deed it is not stated that she may bequeath it as she pleases, and has not explicitly stated that she has the right of disposal; if then her father die, then her brothers shall hold her field and garden, and give her corn, oil, and milk according to her portion, and satisfy her. If her brothers do not give her corn, oil, and milk according to her share, then her field and garden shall support her. She shall have the usufruct of field and garden and all that her father gave her so long as she lives, but she can not sell or assign it to others. Her position of inheritance belongs to her brothers.</p></content>
+        <content><p>If a "devoted woman" or a prostitute to whom her father has given a dowry and a deed therefor, but if in this deed it is not stated that she may bequeath it as she pleases, and has not explicitly stated that she has the right of disposal; if then her father die, then her brothers shall hold her field and garden, and give her corn, oil, and milk according to her portion, and satisfy her. If her brothers do not give her corn, oil, and milk according to her share, then her field and garden shall support her. She shall have the usufruct of field and garden and all that her father gave her so long as she lives, but she can not sell or assign it to others. Her position of inheritance belongs to her brothers.</p></content>
       </section>
-      <section eId="sec_179">
+      <section eId="sec_179" GUID="C8E6F737-0453-4F35-9B2D-09B1A76DF489">
         <num>179</num>
-        <content><p>If a “sister of a god,” or a prostitute, receive a gift from her father, and a deed in which it has been explicitly stated that she may dispose of it as she pleases, and give her complete disposition thereof: if then her father die, then she may leave her property to whomsoever she pleases. Her brothers can raise no claim thereto.</p></content>
+        <content><p>If a "sister of a god," or a prostitute, receive a gift from her father, and a deed in which it has been explicitly stated that she may dispose of it as she pleases, and give her complete disposition thereof: if then her father die, then she may leave her property to whomsoever she pleases. Her brothers can raise no claim thereto.</p></content>
       </section>
-      <section eId="sec_180">
+      <section eId="sec_180" GUID="10A44D42-B898-4F03-B081-7A3CBED18D66">
         <num>180</num>
         <content><p>If a father give a present to his daughter--either marriageable or a prostitute  unmarriageable)--and then die, then she is to receive a portion as a child from the paternal estate, and enjoy its usufruct so long as she lives. Her estate belongs to her brothers.</p></content>
       </section>
-      <section eId="sec_181">
+      <section eId="sec_181" GUID="D1E1E3E6-7961-4A9C-B39F-6A1C20CA2405">
         <num>181</num>
-        <content><p>If a father devote a temple-maid or temple-virgin to God and give her no present: if then the father die, she shall receive the third of a child’s portion from the inheritance of her father’s house, and enjoy its usufruct so long as she lives. Her estate belongs to her brothers.</p></content>
+        <content><p>If a father devote a temple-maid or temple-virgin to God and give her no present: if then the father die, she shall receive the third of a child's portion from the inheritance of her father's house, and enjoy its usufruct so long as she lives. Her estate belongs to her brothers.</p></content>
       </section>
-      <section eId="sec_182">
+      <section eId="sec_182" GUID="800DD942-D1B0-41C5-A3BD-AD5A70B97739">
         <num>182</num>
-        <content><p>If a father devote his daughter as a wife of Mardi of Babylon (as in 181), and give her no present, nor a deed; if then her father die, then shall she receive one-third of her portion as a child of her father’s house from her brothers, but Marduk may leave her estate to whomsoever she wishes.</p></content>
+        <content><p>If a father devote his daughter as a wife of Mardi of Babylon (as in 181), and give her no present, nor a deed; if then her father die, then shall she receive one-third of her portion as a child of her father's house from her brothers, but Marduk may leave her estate to whomsoever she wishes.</p></content>
       </section>
-      <section eId="sec_183">
+      <section eId="sec_183" GUID="582CDEBD-AFDE-4986-9734-790E3D45C206">
         <num>183</num>
         <content><p>If a man give his daughter by a concubine a dowry, and a husband, and a deed; if then her father die, she shall receive no portion from the paternal estate.</p></content>
       </section>
-      <section eId="sec_184">
+      <section eId="sec_184" GUID="6FFCF148-591E-4FA9-8004-4525DF667FC5">
         <num>184</num>
-        <content><p>If a man do not give a dowry to his daughter by a concubine, and no husband; if then her father die, her brother shall give her a dowry according to her father’s wealth and secure a husband for her.</p></content>
+        <content><p>If a man do not give a dowry to his daughter by a concubine, and no husband; if then her father die, her brother shall give her a dowry according to her father's wealth and secure a husband for her.</p></content>
       </section>
-      <section eId="sec_185">
+      <section eId="sec_185" GUID="AB2C8916-FB0A-4D4E-96BC-EDD336968E76">
         <num>185</num>
         <content><p>If a man adopt a child and to his name as son, and rear him, this grown son can not be demanded back again.</p></content>
       </section>
-      <section eId="sec_186">
+      <section eId="sec_186" GUID="8CE92037-BAC9-4A0E-B765-BCA4F0B7AB26">
         <num>186</num>
-        <content><p>If a man adopt a son, and if after he has taken him he injure his foster father and mother, then this adopted son shall return to his father’s house.</p></content>
+        <content><p>If a man adopt a son, and if after he has taken him he injure his foster father and mother, then this adopted son shall return to his father's house.</p></content>
       </section>
-      <section eId="sec_187">
+      <section eId="sec_187" GUID="247759AB-F8B3-4F98-8727-75A9D3B29B38">
         <num>187</num>
         <content><p>The son of a paramour in the palace service, or of a prostitute, can not be demanded back.</p></content>
       </section>
-      <section eId="sec_188">
+      <section eId="sec_188" GUID="C393CE7A-55B7-4936-92B2-9B59B413011A">
         <num>188</num>
         <content><p>If an artizan has undertaken to rear a child and teaches him his craft, he can not be demanded back.</p></content>
       </section>
-      <section eId="sec_189">
+      <section eId="sec_189" GUID="1405DC39-1ABA-4EE0-8A70-F07E355F6A9E">
         <num>189</num>
-        <content><p>If he has not taught him his craft, this adopted son may return to his father’s house.</p></content>
+        <content><p>If he has not taught him his craft, this adopted son may return to his father's house.</p></content>
       </section>
-      <section eId="sec_190">
+      <section eId="sec_190" GUID="4CE13C7D-99BB-4B60-BCA5-834E00B992B1">
         <num>190</num>
-        <content><p>If a man does not maintain a child that he has adopted as a son and reared with his other children, then his adopted son may return to his father’s house.</p></content>
+        <content><p>If a man does not maintain a child that he has adopted as a son and reared with his other children, then his adopted son may return to his father's house.</p></content>
       </section>
-      <section eId="sec_191">
+      <section eId="sec_191" GUID="960F2FE3-6681-4CA7-99BD-62D675451EC1">
         <num>191</num>
-        <content><p>If a man, who had adopted a son and reared him, founded a household, and had children, wish to put this adopted son out, then this son shall not simply go his way. His adoptive father shall give him of his wealth one-third of a child’s portion, and then he may go. He shall not give him of the field, garden, and house.</p></content>
+        <content><p>If a man, who had adopted a son and reared him, founded a household, and had children, wish to put this adopted son out, then this son shall not simply go his way. His adoptive father shall give him of his wealth one-third of a child's portion, and then he may go. He shall not give him of the field, garden, and house.</p></content>
       </section>
-      <section eId="sec_192">
+      <section eId="sec_192" GUID="CA4AE6E5-91F8-434B-9B57-B6C7595AE5C0">
         <num>192</num>
-        <content><p>If a son of a paramour or a prostitute say to his adoptive father or mother: “You are not my father, or my mother,” his tongue shall be cut off.</p></content>
+        <content><p>If a son of a paramour or a prostitute say to his adoptive father or mother: "You are not my father, or my mother," his tongue shall be cut off.</p></content>
       </section>
-      <section eId="sec_193">
+      <section eId="sec_193" GUID="7E498750-0411-4B74-A4FF-229C6B089957">
         <num>193</num>
-        <content><p>If the son of a paramour or a prostitute desire his father’s house, and desert his adoptive father and adoptive mother, and goes to his father’s house, then shall his eye be put out.</p></content>
+        <content><p>If the son of a paramour or a prostitute desire his father's house, and desert his adoptive father and adoptive mother, and goes to his father's house, then shall his eye be put out.</p></content>
       </section>
-      <section eId="sec_194">
+      <section eId="sec_194" GUID="928C5783-DC31-4239-9EF3-9DC02678B17F">
         <num>194</num>
         <content><p>If a man give his child to a nurse and the child die in her hands, but the nurse unbeknown to the father and mother nurse another child, then they shall convict her of having nursed another child without the knowledge of the father and mother and her breasts shall be cut off.</p></content>
       </section>
-      <section eId="sec_195">
+      <section eId="sec_195" GUID="95F2BF36-F468-4D77-8F09-C6B623670875">
         <num>195</num>
         <content><p>If a son strike his father, his hands shall be hewn off.</p></content>
       </section>
-      <section eId="sec_196">
+      <section eId="sec_196" GUID="2905E3A7-A88C-4F2B-A50A-AEC81EC10333">
         <num>196</num>
-        <content><p><span class="landmark">If a man put out the eye of another man, his eye shall be put out. <span class="gloss">[An eye for an eye]</span></span></p></content>
+        <content><p><span class="landmark">If a man put out the eye of another man, his eye shall be put out. <span class="gloss">[ An eye for an eye ]</span></span></p></content>
       </section>
-      <section eId="sec_197">
+      <section eId="sec_197" GUID="214507CE-B3E4-44FD-B828-A07EBEA66EA4">
         <num>197</num>
-        <content><p><span class="landmark">If he break another man’s bone, his bone shall be broken.</span></p></content>
+        <content><p><span class="landmark">If he break another man's bone, his bone shall be broken.</span></p></content>
       </section>
-      <section eId="sec_198">
+      <section eId="sec_198" GUID="1917724E-DB0A-43B2-B08A-0C7E5FEF2EDD">
         <num>198</num>
         <content><p>If he put out the eye of a freed man, or break the bone of a freed man, he shall pay one gold mina.</p></content>
       </section>
-      <section eId="sec_199">
+      <section eId="sec_199" GUID="A0C4FB43-779F-4297-9413-7DDC4DF8DB3C">
         <num>199</num>
-        <content><p>If he put out the eye of a man’s slave, or break the bone of a man’s slave, he shall pay one-half of its value.</p></content>
+        <content><p>If he put out the eye of a man's slave, or break the bone of a man's slave, he shall pay one-half of its value.</p></content>
       </section>
-      <section eId="sec_200">
+      <section eId="sec_200" GUID="309A95E0-2F1F-4A4E-96FD-33F5CD3FFD89">
         <num>200</num>
-        <content><p><span class="landmark">If a man knock out the teeth of his equal, his teeth shall be knocked out. <span class="gloss">[A tooth for a tooth]</span></span></p></content>
+        <content><p><span class="landmark">If a man knock out the teeth of his equal, his teeth shall be knocked out. <span class="gloss">[ A tooth for a tooth ]</span></span></p></content>
       </section>
-      <section eId="sec_201">
+      <section eId="sec_201" GUID="51BF38DD-8620-4257-8AD3-362228B71EA5">
         <num>201</num>
         <content><p>If he knock out the teeth of a freed man, he shall pay one-third of a gold mina.</p></content>
       </section>
-      <section eId="sec_202">
+      <section eId="sec_202" GUID="7E2B250C-3F70-4D48-AC62-080C2E20A1B6">
         <num>202</num>
         <content><p>If any one strike the body of a man higher in rank than he, he shall receive sixty blows with an ox-whip in public.</p></content>
       </section>
-      <section eId="sec_203">
+      <section eId="sec_203" GUID="45058CE2-C366-413B-8D18-82D96C095A0A">
         <num>203</num>
         <content><p>If a free-born man strike the body of another free-born man or equal rank, he shall pay one gold mina.</p></content>
       </section>
-      <section eId="sec_204">
+      <section eId="sec_204" GUID="70A760A8-2E9F-4764-A4D9-380205680DD9">
         <num>204</num>
         <content><p>If a freed man strike the body of another freed man, he shall pay ten shekels in money.</p></content>
       </section>
-      <section eId="sec_205">
+      <section eId="sec_205" GUID="E2B72EBC-35EC-4671-A4C1-4D11B6C14F81">
         <num>205</num>
         <content><p>If the slave of a freed man strike the body of a freed man, his ear shall be cut off.</p></content>
       </section>
-      <section eId="sec_206">
+      <section eId="sec_206" GUID="A6C5AE85-0775-4477-9D0A-9FF9277EF314">
         <num>206</num>
-        <content><p>If during a quarrel one man strike another and wound him, then he shall swear, “I did not injure him wittingly,” and pay the physicians.</p></content>
+        <content><p>If during a quarrel one man strike another and wound him, then he shall swear, "I did not injure him wittingly," and pay the physicians.</p></content>
       </section>
-      <section eId="sec_207">
+      <section eId="sec_207" GUID="6C41BC86-EF19-46DF-916D-98902792A5C9">
         <num>207</num>
         <content><p>If the man die of his wound, he shall swear similarly, and if he (the deceased) was a free-born man, he shall pay half a mina in money.</p></content>
       </section>
-      <section eId="sec_208">
+      <section eId="sec_208" GUID="1BB419C9-87F9-4E38-B08A-69676C8C374F">
         <num>208</num>
         <content><p>If he was a freed man, he shall pay one-third of a mina.</p></content>
       </section>
-      <section eId="sec_209">
+      <section eId="sec_209" GUID="91B1F7D8-C917-4500-8BBB-890CEC234774">
         <num>209</num>
         <content><p>If a man strike a free-born woman so that she lose her unborn child, he shall pay ten shekels for her loss.</p></content>
       </section>
-      <section eId="sec_210">
+      <section eId="sec_210" GUID="B2700A1E-8930-4BBE-85CD-249D84595BB1">
         <num>210</num>
         <content><p>If the woman die, his daughter shall be put to death.</p></content>
       </section>
-      <section eId="sec_211">
+      <section eId="sec_211" GUID="3305B0D0-4DA9-4201-8EE6-5DF489C83E8A">
         <num>211</num>
         <content><p>If a woman of the free class lose her child by a blow, he shall pay five shekels in money.</p></content>
       </section>
-      <section eId="sec_212">
+      <section eId="sec_212" GUID="C1931223-4D29-4E00-A3A4-0E19CC5DB034">
         <num>212</num>
         <content><p>If this woman die, he shall pay half a mina.</p></content>
       </section>
-      <section eId="sec_213">
+      <section eId="sec_213" GUID="A4A5E97F-1880-4C24-A176-DC3A8E7C9C9D">
         <num>213</num>
         <content><p>If he strike the maid-servant of a man, and she lose her child, he shall pay two shekels in money.</p></content>
       </section>
-      <section eId="sec_214">
+      <section eId="sec_214" GUID="878D108F-D3AE-4395-90EB-743F80039FE9">
         <num>214</num>
         <content><p>If this maid-servant die, he shall pay one-third of a mina.</p></content>
       </section>
-      <section eId="sec_215">
+      <section eId="sec_215" GUID="EBDDF1AA-1113-4522-A037-521A2DDFBA08">
         <num>215</num>
         <content><p>If a physician make a large incision with an operating knife and cure it, or if he open a tumor (over the eye) with an operating knife, and saves the eye, he shall receive ten shekels in money.</p></content>
       </section>
-      <section eId="sec_216">
+      <section eId="sec_216" GUID="2D67C81C-8DF9-4E6E-BC8D-41144C5C72D8">
         <num>216</num>
         <content><p>If the patient be a freed man, he receives five shekels.</p></content>
       </section>
-      <section eId="sec_217">
+      <section eId="sec_217" GUID="B705FD56-3753-4258-B3E2-C9F7B9618CD1">
         <num>217</num>
         <content><p>If he be the slave of some one, his owner shall give the physician two shekels.</p></content>
       </section>
-      <section eId="sec_218">
+      <section eId="sec_218" GUID="AAF80A09-5155-4E69-80B7-A7245862509F">
         <num>218</num>
         <content><p>If a physician make a large incision with the operating knife, and kill him, or open a tumor with the operating knife, and cut out the eye, his hands shall be cut off.</p></content>
       </section>
-      <section eId="sec_219">
+      <section eId="sec_219" GUID="6AC68048-F4EB-446F-B675-7B50208B7817">
         <num>219</num>
         <content><p>If a physician make a large incision in the slave of a freed man, and kill him, he shall replace the slave with another slave.</p></content>
       </section>
-      <section eId="sec_220">
+      <section eId="sec_220" GUID="DA4F28FF-76D6-4AFE-AF43-53BF85ECA941">
         <num>220</num>
         <content><p>If he had opened a tumor with the operating knife, and put out his eye, he shall pay half his value.</p></content>
       </section>
-      <section eId="sec_221">
+      <section eId="sec_221" GUID="39EFD9E7-6D48-4940-A638-2140E79FB798">
         <num>221</num>
         <content><p>If a physician heal the broken bone or diseased soft part of a man, the patient shall pay the physician five shekels in money.</p></content>
       </section>
-      <section eId="sec_222">
+      <section eId="sec_222" GUID="FF83D3C1-D509-4F8A-9128-6AB6AD533A44">
         <num>222</num>
         <content><p>If he were a freed man he shall pay three shekels.</p></content>
       </section>
-      <section eId="sec_223">
+      <section eId="sec_223" GUID="FC15A1B2-C73E-45C3-A934-6DD9260E74B3">
         <num>223</num>
         <content><p>If he were a slave his owner shall pay the physician two shekels.</p></content>
       </section>
-      <section eId="sec_224">
+      <section eId="sec_224" GUID="8FE67694-DE83-4D5B-93A2-E970277687F6">
         <num>224</num>
         <content><p>If a veterinary surgeon perform a serious operation on an ass or an ox, and cure it, the owner shall pay the surgeon one-sixth of a shekel as a fee.</p></content>
       </section>
-      <section eId="sec_225">
+      <section eId="sec_225" GUID="B14ABF41-3DEC-4278-9FC7-96C48CCBE5B0">
         <num>225</num>
         <content><p>If he perform a serious operation on an ass or ox, and kill it, he shall pay the owner one-fourth of its value.</p></content>
       </section>
-      <section eId="sec_226">
+      <section eId="sec_226" GUID="04B0B899-7353-4399-9CAB-EE0DFF933815">
         <num>226</num>
         <content><p>If a barber, without the knowledge of his master, cut the sign of a slave on a slave not to be sold, the hands of this barber shall be cut off.</p></content>
       </section>
-      <section eId="sec_227">
+      <section eId="sec_227" GUID="F7C7A2D3-DE43-47B3-BD54-87DBD9F3265E">
         <num>227</num>
-        <content><p>If any one deceive a barber, and have him mark a slave not for sale with the sign of a slave, he shall be put to death, and buried in his house. The barber shall swear: “I did not mark him wittingly,” and shall be guiltless.</p></content>
+        <content><p>If any one deceive a barber, and have him mark a slave not for sale with the sign of a slave, he shall be put to death, and buried in his house. The barber shall swear: "I did not mark him wittingly," and shall be guiltless.</p></content>
       </section>
-      <section eId="sec_228">
+      <section eId="sec_228" GUID="1B4A2CBA-4998-412D-903C-A42EED4391B3">
         <num>228</num>
         <content><p>If a builder build a house for some one and complete it, he shall give him a fee of two shekels in money for each sar of surface.</p></content>
       </section>
-      <section eId="sec_229">
+      <section eId="sec_229" GUID="943E9853-DCC1-425F-B7AD-A11AAAE94B88">
         <num>229</num>
         <content><p>If a builder build a house for some one, and does not construct it properly, and the house which he built fall in and kill its owner, then that builder shall be put to death.</p></content>
       </section>
-      <section eId="sec_230">
+      <section eId="sec_230" GUID="EB0E3299-8947-4A3B-B46E-6B8BAE3ACCB9">
         <num>230</num>
         <content><p>If it kill the son of the owner the son of that builder shall be put to death.</p></content>
       </section>
-      <section eId="sec_231">
+      <section eId="sec_231" GUID="805CC480-8A03-475D-ABD2-C9627BD972BE">
         <num>231</num>
         <content><p>If it kill a slave of the owner, then he shall pay slave for slave to the owner of the house.</p></content>
       </section>
-      <section eId="sec_232">
+      <section eId="sec_232" GUID="80020162-EFFD-4BD7-A1C1-9D3BDA2E15B9">
         <num>232</num>
         <content><p>If it ruin goods, he shall make compensation for all that has been ruined, and inasmuch as he did not construct properly this house which he built and it fell, he shall re-erect the house from his own means.</p></content>
       </section>
-      <section eId="sec_233">
+      <section eId="sec_233" GUID="250B84EF-B1BF-4522-8074-05781A1BDAEF">
         <num>233</num>
         <content><p>If a builder build a house for some one, even though he has not yet completed it; if then the walls seem toppling, the builder must make the walls solid from his own means.</p></content>
       </section>
-      <section eId="sec_234">
+      <section eId="sec_234" GUID="60E60C58-7C23-42FE-A4EB-7B4F245B2599">
         <num>234</num>
         <content><p>If a shipbuilder build a boat of sixty gur for a man, he shall pay him a fee of two shekels in money.</p></content>
       </section>
-      <section eId="sec_235">
+      <section eId="sec_235" GUID="E734A8D5-8C32-4C78-86D1-2E41D598B3EE">
         <num>235</num>
         <content><p>If a shipbuilder build a boat for some one, and do not make it tight, if during that same year that boat is sent away and suffers injury, the shipbuilder shall take the boat apart and put it together tight at his own expense. The tight boat he shall give to the boat owner.</p></content>
       </section>
-      <section eId="sec_236">
+      <section eId="sec_236" GUID="E91F52D8-9B80-43D8-9539-8F9A57192229">
         <num>236</num>
         <content><p>If a man rent his boat to a sailor, and the sailor is careless, and the boat is wrecked or goes aground, the sailor shall give the owner of the boat another boat as compensation.</p></content>
       </section>
-      <section eId="sec_237">
+      <section eId="sec_237" GUID="30B263ED-5F74-4C06-B4E1-DDDFF452F799">
         <num>237</num>
         <content><p>If a man hire a sailor and his boat, and provide it with corn, clothing, oil and dates, and other things of the kind needed for fitting it: if the sailor is careless, the boat is wrecked, and its contents ruined, then the sailor shall compensate for the boat which was wrecked and all in it that he ruined.</p></content>
       </section>
-      <section eId="sec_238">
+      <section eId="sec_238" GUID="2D7AF1C9-5BB1-459A-AEB5-118D074C47DF">
         <num>238</num>
-        <content><p>If a sailor wreck any one’s ship, but saves it, he shall pay the half of its value in money.</p></content>
+        <content><p>If a sailor wreck any one's ship, but saves it, he shall pay the half of its value in money.</p></content>
       </section>
-      <section eId="sec_239">
+      <section eId="sec_239" GUID="302E226B-6960-4D2B-B482-FA4DBF5545A6">
         <num>239</num>
         <content><p>If a man hire a sailor, he shall pay him six gur of corn per year.</p></content>
       </section>
-      <section eId="sec_240">
+      <section eId="sec_240" GUID="B45BFA16-9079-4E3B-A53A-2351B30B024B">
         <num>240</num>
         <content><p>If a merchantman run against a ferryboat, and wreck it, the master of the ship that was wrecked shall seek justice before God; the master of the merchantman, which wrecked the ferryboat, must compensate the owner for the boat and all that he ruined.</p></content>
       </section>
-      <section eId="sec_241">
+      <section eId="sec_241" GUID="9B6D3204-5A35-4D24-9AA5-361DC62F4970">
         <num>241</num>
         <content><p>If any one impresses an ox for forced labor, he shall pay one-third of a mina in money.</p></content>
       </section>
-      <section eId="sec_242">
+      <section eId="sec_242" GUID="265C8D70-A6A9-411A-A277-4D22395C4254">
         <num>242</num>
         <content><p>If any one hire oxen for a year, he shall pay four gur of corn for plow-oxen.</p></content>
       </section>
-      <section eId="sec_243">
+      <section eId="sec_243" GUID="5D481613-FEF9-49F5-A68D-EFE6F177F228">
         <num>243</num>
         <content><p>As rent of herd cattle he shall pay three gur of corn to the owner.</p></content>
       </section>
-      <section eId="sec_244">
+      <section eId="sec_244" GUID="BE7395A6-CC10-4F1B-8059-EE467E4FA581">
         <num>244</num>
         <content><p>If any one hire an ox or an ass, and a lion kill it in the field, the loss is upon its owner.</p></content>
       </section>
-      <section eId="sec_245">
+      <section eId="sec_245" GUID="B2BB0964-53E8-41CE-B29D-3AC8E02A8313">
         <num>245</num>
         <content><p>If any one hire oxen, and kill them by bad treatment or blows, he shall compensate the owner, oxen for oxen.</p></content>
       </section>
-      <section eId="sec_246">
+      <section eId="sec_246" GUID="1A06E149-8329-42FD-BB9A-77DF48FC26B0">
         <num>246</num>
         <content><p>If a man hire an ox, and he break its leg or cut the ligament of its neck, he shall compensate the owner with ox for ox.</p></content>
       </section>
-      <section eId="sec_247">
+      <section eId="sec_247" GUID="EEDC627D-06AD-40BD-AB2D-A29EC98CCEDF">
         <num>247</num>
         <content><p>If any one hire an ox, and put out its eye, he shall pay the owner one-half of its value.</p></content>
       </section>
-      <section eId="sec_248">
+      <section eId="sec_248" GUID="185D7AF6-C4E5-4876-86A1-6F538765C175">
         <num>248</num>
         <content><p>If any one hire an ox, and break off a horn, or cut off its tail, or hurt its muzzle, he shall pay one-fourth of its value in money.</p></content>
       </section>
-      <section eId="sec_249">
+      <section eId="sec_249" GUID="8217B4FF-9F49-4405-8212-C98A8DAE1B3C">
         <num>249</num>
         <content><p>If any one hire an ox, and God strike it that it die, the man who hired it shall swear by God and be considered guiltless.</p></content>
       </section>
-      <section eId="sec_250">
+      <section eId="sec_250" GUID="D4180EB9-15F2-44BB-8959-5C639CBDE062">
         <num>250</num>
         <content><p>If while an ox is passing on the street (market) some one push it, and kill it, the owner can set up no claim in the suit (against the hirer).</p></content>
       </section>
-      <section eId="sec_251">
+      <section eId="sec_251" GUID="A3353224-553F-4613-A013-2767035A62C4">
         <num>251</num>
         <content><p>If an ox be a goring ox, and it shown that he is a gorer, and he do not bind his horns, or fasten the ox up, and the ox gore a free-born man and kill him, the owner shall pay one-half a mina in money.</p></content>
       </section>
-      <section eId="sec_252">
+      <section eId="sec_252" GUID="7CAF1661-DC4C-47D7-8674-F546FD39E80E">
         <num>252</num>
-        <content><p>If he kill a man’s slave, he shall pay one-third of a mina.</p></content>
+        <content><p>If he kill a man's slave, he shall pay one-third of a mina.</p></content>
       </section>
-      <section eId="sec_253">
+      <section eId="sec_253" GUID="4E9D0CF7-5437-4678-A8A2-4352A7623EA1">
         <num>253</num>
         <content><p>If any one agree with another to tend his field, give him seed, entrust a yoke of oxen to him, and bind him to cultivate the field, if he steal the corn or plants, and take them for himself, his hands shall be hewn off.</p></content>
       </section>
-      <section eId="sec_254">
+      <section eId="sec_254" GUID="1BCF081A-A4A7-4CF2-8B3D-1BE37C2EA906">
         <num>254</num>
         <content><p>If he take the seed-corn for himself, and do not use the yoke of oxen, he shall compensate him for the amount of the seed-corn.</p></content>
       </section>
-      <section eId="sec_255">
+      <section eId="sec_255" GUID="AA207406-D79B-4307-B878-32C3F84F2914">
         <num>255</num>
-        <content><p>If he sublet the man’s yoke of oxen or steal the seed-corn, planting nothing in the field, he shall be convicted, and for each one hundred gan he shall pay sixty gur of corn.</p></content>
+        <content><p>If he sublet the man's yoke of oxen or steal the seed-corn, planting nothing in the field, he shall be convicted, and for each one hundred gan he shall pay sixty gur of corn.</p></content>
       </section>
-      <section eId="sec_256">
+      <section eId="sec_256" GUID="2B76C73E-7D36-4AA3-9CFE-2191D09AB9CC">
         <num>256</num>
         <content><p>If his community will not pay for him, then he shall be placed in that field with the cattle (at work).</p></content>
       </section>
-      <section eId="sec_257">
+      <section eId="sec_257" GUID="39CA06F8-57EE-47D4-A2C8-A3DBC0C9C940">
         <num>257</num>
         <content><p>If any one hire a field laborer, he shall pay him eight gur of corn per year.</p></content>
       </section>
-      <section eId="sec_258">
+      <section eId="sec_258" GUID="C4DF895E-98B4-49C2-B894-C0AB56D20CE8">
         <num>258</num>
         <content><p>If any one hire an ox-driver, he shall pay him six gur of corn per year.</p></content>
       </section>
-      <section eId="sec_259">
+      <section eId="sec_259" GUID="F5A099DB-C326-40E8-BB38-7EE839FE8A6F">
         <num>259</num>
         <content><p>If any one steal a water-wheel from the field, he shall pay five shekels in money to its owner.</p></content>
       </section>
-      <section eId="sec_260">
+      <section eId="sec_260" GUID="FF22D125-FC9A-4187-A263-9860C1DD5A23">
         <num>260</num>
         <content><p>If any one steal a shadduf (used to draw water from the river or canal) or a plow, he shall pay three shekels in money.</p></content>
       </section>
-      <section eId="sec_261">
+      <section eId="sec_261" GUID="6B44F769-37C0-4AAA-A8BD-127087AB2C90">
         <num>261</num>
         <content><p>If any one hire a herdsman for cattle or sheep, he shall pay him eight gur of corn per annum.</p></content>
       </section>
-      <section eId="sec_262">
+      <section eId="sec_262" GUID="4B241195-6CC4-4837-B13C-32DC03932173">
         <num>262</num>
         <content><p>If any one, a cow or a sheep <omissis>. . .</omissis></p></content>
       </section>
-      <section eId="sec_263">
+      <section eId="sec_263" GUID="FE53F71F-928B-4F2C-8DF8-F6B4BDAB47B8">
         <num>263</num>
         <content><p>If he kill the cattle or sheep that were given to him, he shall compensate the owner with cattle for cattle and sheep for sheep.</p></content>
       </section>
-      <section eId="sec_264">
+      <section eId="sec_264" GUID="E0B4FB2E-5B71-4377-AF5C-C1F7BDDC391F">
         <num>264</num>
         <content><p>If a herdsman, to whom cattle or sheep have been entrusted for watching over, and who has received his wages as agreed upon, and is satisfied, diminish the number of the cattle or sheep, or make the increase by birth less, he shall make good the increase or profit which was lost in the terms of settlement.</p></content>
       </section>
-      <section eId="sec_265">
+      <section eId="sec_265" GUID="4C65C83D-C5DD-4114-B7D9-73337E6B6085">
         <num>265</num>
         <content><p>If a herdsman, to whose care cattle or sheep have been entrusted, be guilty of fraud and make false returns of the natural increase, or sell them for money, then shall he be convicted and pay the owner ten times the loss.</p></content>
       </section>
-      <section eId="sec_266">
+      <section eId="sec_266" GUID="E9AC5FED-23DE-4A1E-B924-752AEA83853C">
         <num>266</num>
         <content><p>If the animal be killed in the stable by God ( an accident), or if a lion kill it, the herdsman shall declare his innocence before God, and the owner bears the accident in the stable.</p></content>
       </section>
-      <section eId="sec_267">
+      <section eId="sec_267" GUID="9200B0D3-BF9A-4FE6-8AC2-3C7E883DBC97">
         <num>267</num>
         <content><p>If the herdsman overlook something, and an accident happen in the stable, then the herdsman is at fault for the accident which he has caused in the stable, and he must compensate the owner for the cattle or sheep.</p></content>
       </section>
-      <section eId="sec_268">
+      <section eId="sec_268" GUID="FA50EA4B-C219-4D7C-BBA1-470A92C3018A">
         <num>268</num>
         <content><p>If any one hire an ox for threshing, the amount of the hire is twenty ka of corn.</p></content>
       </section>
-      <section eId="sec_269">
+      <section eId="sec_269" GUID="8EF6FD82-9004-424D-94B1-03B530376212">
         <num>269</num>
         <content><p>If he hire an ass for threshing, the hire is twenty ka of corn.</p></content>
       </section>
-      <section eId="sec_270">
+      <section eId="sec_270" GUID="D9BAC5C5-B8A9-4169-ABE4-FF4FDDA281D0">
         <num>270</num>
         <content><p>If he hire a young animal for threshing, the hire is ten ka of corn.</p></content>
       </section>
-      <section eId="sec_271">
+      <section eId="sec_271" GUID="31E73231-E772-41D6-B99A-D2DC8376C84C">
         <num>271</num>
         <content><p>If any one hire oxen, cart and driver, he shall pay one hundred and eighty ka of corn per day.</p></content>
       </section>
-      <section eId="sec_272">
+      <section eId="sec_272" GUID="4BF0C6A1-97DE-44EC-9047-30E31D9D8F93">
         <num>272</num>
         <content><p>If any one hire a cart alone, he shall pay forty ka of corn per day.</p></content>
       </section>
-      <section eId="sec_273">
+      <section eId="sec_273" GUID="EFA2C6EC-345F-493D-A020-575FEEDB78B0">
         <num>273</num>
         <content><p>If any one hire a day laborer, he shall pay him from the New Year until the fifth month (April to August, when days are long and the work hard) six gerahs in money per day; from the sixth month to the end of the year he shall give him five gerahs per day.</p></content>
       </section>
-      <section eId="sec_274">
+      <section eId="sec_274" GUID="CC497240-B3D6-4BE6-B4F1-BBE588CE20D9">
         <num>274</num>
-        <content><p>If any one hire a skilled artizan, he shall pay as wages of the <omissis>. . .</omissis> five gerahs, as wages of the potter five gerahs, of a tailor five gerahs, of <omissis>. . .</omissis> gerahs, <omissis>. . .</omissis> of a ropemaker four gerahs, of <omissis>. . .</omissis> . gerahs, of a mason <omissis>. . .</omissis> gerahs per day.</p></content>
+        <content><p>If any one hire a skilled artizan, he shall pay as wages of the <omissis>. . .</omissis> five gerahs, as wages of the potter five gerahs, of a tailor five gerahs, of <omissis>. . .</omissis> gerahs, <omissis>. . .</omissis> of a ropemaker four gerahs, of <omissis>. . .</omissis>. gerahs, of a mason <omissis>. . .</omissis> gerahs per day.</p></content>
       </section>
-      <section eId="sec_275">
+      <section eId="sec_275" GUID="E890044F-0736-4DD4-97E6-26700AE87A2A">
         <num>275</num>
         <content><p>If any one hire a ferryboat, he shall pay three gerahs in money per day.</p></content>
       </section>
-      <section eId="sec_276">
+      <section eId="sec_276" GUID="A4CF66F1-43B0-4B1E-9506-27A6CECA3E6A">
         <num>276</num>
         <content><p>If he hire a freight-boat, he shall pay two and one-half gerahs per day.</p></content>
       </section>
-      <section eId="sec_277">
+      <section eId="sec_277" GUID="0427ACF6-4E37-47CE-825A-FF567A179130">
         <num>277</num>
         <content><p>If any one hire a ship of sixty gur, he shall pay one-sixth of a shekel in money as its hire per day.</p></content>
       </section>
-      <section eId="sec_278">
+      <section eId="sec_278" GUID="0131A419-5277-446A-9924-E7BE99BE554B">
         <num>278</num>
         <content><p>If any one buy a male or female slave, and before a month has elapsed the benu-disease be developed, he shall return the slave to the seller, and receive the money which he had paid.</p></content>
       </section>
-      <section eId="sec_279">
+      <section eId="sec_279" GUID="6BA3BEF4-79C1-4976-87E0-D58876744D0F">
         <num>279</num>
         <content><p>If any one buy a male or female slave, and a third party claim it, the seller is liable for the claim.</p></content>
       </section>
-      <section eId="sec_280">
+      <section eId="sec_280" GUID="A825B715-0A36-47D0-B7FB-B478B63F2AE3">
         <num>280</num>
         <content><p>If while in a foreign country a man buy a male or female slave belonging to another of his own country; if when he return home the owner of the male or female slave recognize it: if the male or female slave be a native of the country, he shall give them back without any money.</p></content>
       </section>
-      <section eId="sec_281">
+      <section eId="sec_281" GUID="15A6648A-B6A6-46A6-8CBC-041727FC96A0">
         <num>281</num>
         <content><p>If they are from another country, the buyer shall declare the amount of money paid therefor to the merchant, and keep the male or female slave.</p></content>
       </section>
-      <section eId="sec_282">
+      <section eId="sec_282" GUID="9CA219EB-374C-457E-B5A0-42B7110A09C4">
         <num>282</num>
-        <content><p>If a slave say to his master: “You are not my master,” if they convict him his master shall cut off his ear.</p></content>
+        <content><p>If a slave say to his master: "You are not my master," if they convict him his master shall cut off his ear.</p></content>
       </section>
     </body>
     <conclusions>
-      <container name="epilogue" eId="epilogue">
+      <container name="epilogue" eId="epilogue" GUID="1AE3BE43-34BE-4723-A545-B0C29F9D76B3">
         <p class="epilogueHead">The Epilogue</p>
-        <p eId="epilogue__para_1">LAWS of justice which Hammurabi, the wise king, established. A righteous law, and pious statute did he teach the land. Hammurabi, the protecting king am I. I have not withdrawn myself from the men, whom Bel gave to me, the rule over whom Marduk gave to me, I was not negligent, but I made them a peaceful abiding-place. I expounded all great difficulties, I made the light shine upon them. With the mighty weapons which Zamama and Ishtar entrusted to me, with the keen vision with which Ea endowed me, with the wisdom that Marduk gave me, I have uprooted the enemy above and below (in north and south), subdued the earth, brought prosperity to the land, guaranteed security to the inhabitants in their homes; a disturber was not permitted. The great gods have called me, I am the salvation-bearing shepherd, whose staff is straight, the good shadow that is spread over my city; on my breast I cherish the inhabitants of the land of Sumer and Akkad; in my shelter I have let them repose in peace; in my deep wisdom have I enclosed them. That the strong might not injure the weak, in order to protect the widows and orphans, I have in Babylon the city where Anu and Bel raise high their head, in E-Sagil, the Temple, whose foundations stand firm as heaven and earth, in order to bespeak justice in the land, to settle all disputes, and heal all injuries, set up these my precious words, written upon my memorial stone, before the image of me, as king of righteousness.</p>
-        <p eId="epilogue__para_2">The king who ruleth among the kings of the cities am I. My words are well considered; there is no wisdom like unto mine. By the command of Shamash, the great judge of heaven and earth, let righteousness go forth in the land: by the order of Marduk, my lord, let no destruction befall my monument. In E-Sagil, which I love, let my name be ever repeated; let the oppressed, who has a case at law, come and stand before this my image as king of righteousness; let him read the inscription, and understand my precious words: the inscription will explain his case to him; he will find out what is just, and his heart will be glad, so that he will say:</p>
-        <p eId="epilogue__para_3">“Hammurabi is a ruler, who is as a father to his subjects, who holds the words of Marduk in reverence, who has achieved conquest for Marduk over the north and south, who rejoices the heart of Marduk, his lord, who has bestowed benefits for ever and ever on his subjects, and has established order in the land.”</p>
-        <p eId="epilogue__para_4">When he reads the record, let him pray with full heart to Marduk, my lord, and Zarpanit, my lady; and then shall the protecting deities and the gods, who frequent E-Sagil, graciously grant the desires daily presented before Marduk, my lord, and Zarpanit, my lady.</p>
-        <p eId="epilogue__para_5">In future time, through all coming generations, let the king, who may be in the land, observe the words of righteousness which I have written on my monument; let him not alter the law of the land which I have given, the edicts which I have enacted; my monument let him not mar. If such a ruler have wisdom, and be able to keep his land in order, he shall observe the words which I have written in this inscription; the rule, statute, and law of the land which I have given; the decisions which I have made will this inscription show him; let him rule his subjects accordingly, speak justice to them, give right decisions, root out the miscreants and criminals from this land, and grant prosperity to his subjects.</p>
-        <p eId="epilogue__para_6">Hammurabi, the king of righteousness, on whom Shamash has conferred right (or law) am I. My words are well considered; my deeds are not equaled; to bring low those that were high; to humble the proud, to expel insolence. If a succeeding ruler considers my words, which I have written in this my inscription, if he do not annul my law, nor corrupt my words, nor change my monument, then may Shamash lengthen that king’s reign, as he has that of me, the king of righteousness, that he may reign in righteousness over his subjects. If this ruler do not esteem my words, which I have written in my inscription, if he despise my curses, and fear not the curse of God, if he destroy the law which I have given, corrupt my words, change my monument, efface my name, write his name there, or on account of the curses commission another so to do, that man, whether king or ruler, patesi, or commoner, no matter what he be, may the great God (Anu), the Father of the gods, who has ordered my rule, withdraw from him the glory of royalty, break his scepter, curse his destiny. May Bel, the lord, who fixeth destiny, whose command can not be altered, who has made my kingdom great, order a rebellion which his hand can not control; may he let the wind of the overthrow of his habitation blow, may he ordain the years of his rule in groaning, years of scarcity, years of famine, darkness without light, death with seeing eyes be fated to him; may he (Bel) order with his potent mouth the destruction of his city, the dispersion of his subjects, the cutting off of his rule, the removal of his name and memory from the land. May Belit, the great Mother, whose command is potent in E-Kur (the Babylonian Olympus), the Mistress, who harkens graciously to my petitions, in the seat of judgment and decision (where Bel fixes destiny), turn his affairs evil before Bel, and put the devastation of his land, the destruction of his subjects, the pouring out of his life like water into the mouth of King Bel. May Ea, the great ruler, whose fated decrees come to pass, the thinker of the gods, the omniscient, who maketh long the days of my life, withdraw understanding and wisdom from him, lead him to forgetfulness, shut up his rivers at their sources, and not allow corn or sustenance for man to grow in his land. May Shamash, the great Judge of heaven and earth, who supporteth all means of livelihood, Lord of life-courage, shatter his dominion, annul his law, destroy his way, make vain the march of his troops, send him in his visions forecasts of the uprooting of the foundations of his throne and of the destruction of his land. May the condemnation of Shamash overtake him forthwith; may he be deprived of water above among the living, and his spirit below in the earth. May Sin (the Moon-god), the Lord of Heaven, the divine father, whose crescent gives light among the gods, take away the crown and regal throne from him; may he put upon him heavy guilt, great decay, that nothing may be lower than he. May he destine him as fated, days, months and years of dominion filled with sighing and tears, increase of the burden of dominion, a life that is like unto death. May Adad, the lord of fruitfulness, ruler of heaven and earth, my helper, withhold from him rain from heaven, and the flood of water from the springs, destroying his land by famine and want; may he rage mightily over his city, and make his land into flood-hills (heaps of ruined cities). May Zamama, the great warrior, the first-born son of E-Kur, who goeth at my right hand, shatter his weapons on the field of battle, turn day into night for him, and let his foe triumph over him. May Ishtar, the goddess of fighting and war, who unfetters my weapons, my gracious protecting spirit, who loveth my dominion, curse his kingdom in her angry heart; in her great wrath, change his grace into evil, and shatter his weapons on the place of fighting and war. May she create disorder and sedition for him, strike down his warriors, that the earth may drink their blood, and throw down the piles of corpses of his warriors on the field; may she not grant him a life of mercy, deliver him into the hands of his enemies, and imprison him in the land of his enemies. May Nergal, the might among the gods, whose contest is irresistible, who grants me victory, in his great might burn up his subjects like a slender reedstalk, cut off his limbs with his mighty weapons, and shatter him like an earthen image. May Nin-tu, the sublime mistress of the lands, the fruitful mother, deny him a son, vouchsafe him no name, give him no successor among men. May Nin-karak, the daughter of Anu, who adjudges grace to me, cause to come upon his members in E-kur high fever, severe wounds, that can not be healed, whose nature the physician does not understand, which he can not treat with dressing, which, like the bite of death, can not be removed, until they have sapped away his life.</p>
-        <p eId="epilogue__para_7">May he lament the loss of his life-power, and may the great gods of heaven and earth, the Anunaki, altogether inflict a curse and evil upon the confines of the temple, the walls of this E-barra (the Sun temple of Sippara), upon his dominion, his land, his warriors, his subjects, and his troops. May Bel curse him with the potent curses of his mouth that can not be altered, and may they come upon him forthwith.</p>
+        <p>LAWS of justice which Hammurabi, the wise king, established. A righteous law, and pious statute did he teach the land. Hammurabi, the protecting king am I. I have not withdrawn myself from the men, whom Bel gave to me, the rule over whom Marduk gave to me, I was not negligent, but I made them a peaceful abiding-place. I expounded all great difficulties, I made the light shine upon them. With the mighty weapons which Zamama and Ishtar entrusted to me, with the keen vision with which Ea endowed me, with the wisdom that Marduk gave me, I have uprooted the enemy above and below (in north and south), subdued the earth, brought prosperity to the land, guaranteed security to the inhabitants in their homes; a disturber was not permitted. The great gods have called me, I am the salvation-bearing shepherd, whose staff is straight, the good shadow that is spread over my city; on my breast I cherish the inhabitants of the land of Sumer and Akkad; in my shelter I have let them repose in peace; in my deep wisdom have I enclosed them. That the strong might not injure the weak, in order to protect the widows and orphans, I have in Babylon the city where Anu and Bel raise high their head, in E-Sagil, the Temple, whose foundations stand firm as heaven and earth, in order to bespeak justice in the land, to settle all disputes, and heal all injuries, set up these my precious words, written upon my memorial stone, before the image of me, as king of righteousness.</p>
+        <p>The king who ruleth among the kings of the cities am I. My words are well considered; there is no wisdom like unto mine. By the command of Shamash, the great judge of heaven and earth, let righteousness go forth in the land: by the order of Marduk, my lord, let no destruction befall my monument. In E-Sagil, which I love, let my name be ever repeated; let the oppressed, who has a case at law, come and stand before this my image as king of righteousness; let him read the inscription, and understand my precious words: the inscription will explain his case to him; he will find out what is just, and his heart will be glad, so that he will say:</p>
+        <p>"Hammurabi is a ruler, who is as a father to his subjects, who holds the words of Marduk in reverence, who has achieved conquest for Marduk over the north and south, who rejoices the heart of Marduk, his lord, who has bestowed benefits for ever and ever on his subjects, and has established order in the land."</p>
+        <p>When he reads the record, let him pray with full heart to Marduk, my lord, and Zarpanit, my lady; and then shall the protecting deities and the gods, who frequent E-Sagil, graciously grant the desires daily presented before Marduk, my lord, and Zarpanit, my lady.</p>
+        <p>In future time, through all coming generations, let the king, who may be in the land, observe the words of righteousness which I have written on my monument; let him not alter the law of the land which I have given, the edicts which I have enacted; my monument let him not mar. If such a ruler have wisdom, and be able to keep his land in order, he shall observe the words which I have written in this inscription; the rule, statute, and law of the land which I have given; the decisions which I have made will this inscription show him; let him rule his subjects accordingly, speak justice to them, give right decisions, root out the miscreants and criminals from this land, and grant prosperity to his subjects.</p>
+        <p>Hammurabi, the king of righteousness, on whom Shamash has conferred right (or law) am I. My words are well considered; my deeds are not equaled; to bring low those that were high; to humble the proud, to expel insolence. If a succeeding ruler considers my words, which I have written in this my inscription, if he do not annul my law, nor corrupt my words, nor change my monument, then may Shamash lengthen that king's reign, as he has that of me, the king of righteousness, that he may reign in righteousness over his subjects. If this ruler do not esteem my words, which I have written in my inscription, if he despise my curses, and fear not the curse of God, if he destroy the law which I have given, corrupt my words, change my monument, efface my name, write his name there, or on account of the curses commission another so to do, that man, whether king or ruler, patesi, or commoner, no matter what he be, may the great God (Anu), the Father of the gods, who has ordered my rule, withdraw from him the glory of royalty, break his scepter, curse his destiny. May Bel, the lord, who fixeth destiny, whose command can not be altered, who has made my kingdom great, order a rebellion which his hand can not control; may he let the wind of the overthrow of his habitation blow, may he ordain the years of his rule in groaning, years of scarcity, years of famine, darkness without light, death with seeing eyes be fated to him; may he (Bel) order with his potent mouth the destruction of his city, the dispersion of his subjects, the cutting off of his rule, the removal of his name and memory from the land. May Belit, the great Mother, whose command is potent in E-Kur (the Babylonian Olympus), the Mistress, who harkens graciously to my petitions, in the seat of judgment and decision (where Bel fixes destiny), turn his affairs evil before Bel, and put the devastation of his land, the destruction of his subjects, the pouring out of his life like water into the mouth of King Bel. May Ea, the great ruler, whose fated decrees come to pass, the thinker of the gods, the omniscient, who maketh long the days of my life, withdraw understanding and wisdom from him, lead him to forgetfulness, shut up his rivers at their sources, and not allow corn or sustenance for man to grow in his land. May Shamash, the great Judge of heaven and earth, who supporteth all means of livelihood, Lord of life-courage, shatter his dominion, annul his law, destroy his way, make vain the march of his troops, send him in his visions forecasts of the uprooting of the foundations of his throne and of the destruction of his land. May the condemnation of Shamash overtake him forthwith; may he be deprived of water above among the living, and his spirit below in the earth. May Sin (the Moon-god), the Lord of Heaven, the divine father, whose crescent gives light among the gods, take away the crown and regal throne from him; may he put upon him heavy guilt, great decay, that nothing may be lower than he. May he destine him as fated, days, months and years of dominion filled with sighing and tears, increase of the burden of dominion, a life that is like unto death. May Adad, the lord of fruitfulness, ruler of heaven and earth, my helper, withhold from him rain from heaven, and the flood of water from the springs, destroying his land by famine and want; may he rage mightily over his city, and make his land into flood-hills (heaps of ruined cities). May Zamama, the great warrior, the first-born son of E-Kur, who goeth at my right hand, shatter his weapons on the field of battle, turn day into night for him, and let his foe triumph over him. May Ishtar, the goddess of fighting and war, who unfetters my weapons, my gracious protecting spirit, who loveth my dominion, curse his kingdom in her angry heart; in her great wrath, change his grace into evil, and shatter his weapons on the place of fighting and war. May she create disorder and sedition for him, strike down his warriors, that the earth may drink their blood, and throw down the piles of corpses of his warriors on the field; may she not grant him a life of mercy, deliver him into the hands of his enemies, and imprison him in the land of his enemies. May Nergal, the might among the gods, whose contest is irresistible, who grants me victory, in his great might burn up his subjects like a slender reedstalk, cut off his limbs with his mighty weapons, and shatter him like an earthen image. May Nin-tu, the sublime mistress of the lands, the fruitful mother, deny him a son, vouchsafe him no name, give him no successor among men. May Nin-karak, the daughter of Anu, who adjudges grace to me, cause to come upon his members in E-kur high fever, severe wounds, that can not be healed, whose nature the physician does not understand, which he can not treat with dressing, which, like the bite of death, can not be removed, until they have sapped away his life.</p>
+        <p>May he lament the loss of his life-power, and may the great gods of heaven and earth, the Anunaki, altogether inflict a curse and evil upon the confines of the temple, the walls of this E-barra (the Sun temple of Sippara), upon his dominion, his land, his warriors, his subjects, and his troops. May Bel curse him with the potent curses of his mouth that can not be altered, and may they come upon him forthwith.</p>
       </container>
     </conclusions>
   </act>

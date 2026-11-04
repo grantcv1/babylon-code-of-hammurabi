@@ -35,3 +35,13 @@ King's translation is more than a century old and reflects its time, and modern 
 ## Fonts
 
 The stylesheet embeds Marcellus, Spectral and a subset of Noto Sans Cuneiform, all licensed under the [SIL Open Font License](https://openfontlicense.org/). The stone is a CSS texture. The rendering does not reproduce the stele.
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** L. W. King's English translation, from the Avalon Project at Yale Law School. Believed to be in the public domain. Details are under Sources above.
+- **Images:** None.
+- **Fonts:** Marcellus, Spectral and Noto Sans Cuneiform, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
